@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SWGZip",
+        "repositoryURL": "https://github.com/roman-dzieciol/swift-gzip.git",
+        "state": {
+          "branch": null,
+          "revision": "6a3b7318300c5fa3b7b29d380262f2ef16002fb5",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SWXCActivityLog",
+        "repositoryURL": "git@github.com:roman-dzieciol/swift-xcactivitylog.git",
+        "state": {
+          "branch": null,
+          "revision": "7921e28a6dd0bd83e182d5808051b3166b663d1c",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SWXCResult",
+        "repositoryURL": "git@github.com:roman-dzieciol/swift-xcresult.git",
+        "state": {
+          "branch": null,
+          "revision": "2795ad7df4f371fd0b2efaec740359481700e3a5",
+          "version": "10.2.0-1.1.0+10E125"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
