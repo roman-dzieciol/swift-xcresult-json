@@ -1,0 +1,341 @@
+{
+  "TestFailureSummaries" : [
+    {
+      "IssueType" : "Uncategorized",
+      "Target" : "iOSResultBundleAppTests",
+      "DocumentLocationData" : "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERITFBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5OdW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5kaW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVOdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE\/\/\/\/\/\/\/\/\/\/\/EACAAxAegABfEGpmaWxlOi8vL1VzZXJzL3JkL3Ivc3dpZnQteGNyZXN1bHQvaU9TUmVzdWx0QnVuZGxlQXBwL2lPU1Jlc3VsdEJ1bmRsZUFwcFRlc3RzL2lPU1Jlc3VsdEJ1bmRsZUFwcFRlc3RzLnN3aWZ00hscHR5aJGNsYXNzbmFtZVgkY2xhc3Nlc18QF0RWVFRleHREb2N1bWVudExvY2F0aW9uox8gIV8QF0RWVFRleHREb2N1bWVudExvY2F0aW9uXxATRFZURG9jdW1lbnRMb2NhdGlvblhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA8AEIAVwBjAHoAjwCjALYAvQDQANoA7wEDAQUBDgEQARIBFAEWAYMBiAGTAZwBtgG6AdQB6gHzAgUCCAINAAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAg8=",
+      "Message" : "XCTAssertTrue failed",
+      "TestCase" : "iOSResultBundleAppTests.testFail()"
+    },
+    {
+      "IssueType" : "Uncategorized",
+      "Target" : "iOSResultBundleAppUITests",
+      "DocumentLocationData" : "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERITFBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5OdW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5kaW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVOdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE\/\/\/\/\/\/\/\/\/\/\/EACAAxAlgABfEG5maWxlOi8vL1VzZXJzL3JkL3Ivc3dpZnQteGNyZXN1bHQvaU9TUmVzdWx0QnVuZGxlQXBwL2lPU1Jlc3VsdEJ1bmRsZUFwcFVJVGVzdHMvaU9TUmVzdWx0QnVuZGxlQXBwVUlUZXN0cy5zd2lmdNIbHB0eWiRjbGFzc25hbWVYJGNsYXNzZXNfEBdEVlRUZXh0RG9jdW1lbnRMb2NhdGlvbqMfICFfEBdEVlRUZXh0RG9jdW1lbnRMb2NhdGlvbl8QE0RWVERvY3VtZW50TG9jYXRpb25YTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRJCVUcm9vdIABAAgAEQAaACMALQAyADcAPABCAFcAYwB6AI8AowC2AL0A0ADaAO8BAwEFAQ4BEAESARQBFgGHAYwBlwGgAboBvgHYAe4B9wIJAgwCEQAAAAAAAAIBAAAAAAAAACYAAAAAAAAAAAAAAAAAAAIT",
+      "Message" : "failed - fail",
+      "TestCase" : "iOSResultBundleAppUITests.testFail()"
+    }
+  ],
+  "CreatingWorkspaceFilePath" : "\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleApp.xcworkspace",
+  "Actions" : [
+    {
+      "ActionResult" : {
+        "Status" : "IDEActionResultStatus_NotRequested",
+        "TestsCount" : 0,
+        "ErrorCount" : 0,
+        "WarningSummaries" : [
+
+        ],
+        "WarningCount" : 0,
+        "ErrorSummaries" : [
+
+        ],
+        "HasCodeCoverage" : false,
+        "TestFailureSummaries" : [
+
+        ],
+        "AnalyzerWarningSummaries" : [
+
+        ],
+        "AnalyzerWarningCount" : 0,
+        "TestsFailedCount" : 0
+      },
+      "EndedTime" : 576373784,
+      "StartedTime" : 576373750,
+      "SchemeTask" : "Build",
+      "BuildResult" : {
+        "ErrorSummaries" : [
+
+        ],
+        "LogPath" : "1_Run\/build.xcactivitylog",
+        "TestFailureSummaries" : [
+
+        ],
+        "HasCodeCoverage" : false,
+        "ErrorCount" : 0,
+        "WarningSummaries" : [
+
+        ],
+        "TestsFailedCount" : 0,
+        "TestsCount" : 0,
+        "WarningCount" : 0,
+        "Status" : "IDEActionResultStatus_Succeeded",
+        "AnalyzerWarningCount" : 0,
+        "AnalyzerWarningSummaries" : [
+
+        ]
+      },
+      "RunDestination" : {
+        "TargetSDK" : {
+          "Identifier" : "iphonesimulator12.2",
+          "Name" : "Simulator - iOS 12.2",
+          "OperatingSystemVersion" : "12.2",
+          "IsInternal" : false
+        },
+        "TargetArchitecture" : "x86_64",
+        "Name" : "iPhone Xʀ",
+        "TargetDevice" : {
+          "NativeArchitecture" : "x86_64",
+          "ModelUTI" : "com.apple.iphone-xr-1",
+          "ModelName" : "iPhone Xʀ",
+          "Platform" : {
+            "Identifier" : "com.apple.platform.iphonesimulator",
+            "Name" : "iOS Simulator"
+          },
+          "OperatingSystemVersionWithBuildNumber" : "12.2 (16E226)",
+          "IsConcreteDevice" : true,
+          "Name" : "iPhone Xʀ",
+          "ModelCode" : "iPhone11,8",
+          "Identifier" : "1FFF0D53-B33E-4870-B087-5031D58D64D2",
+          "OperatingSystemVersion" : "12.2"
+        },
+        "LocalComputer" : {
+          "CPUCount" : 1,
+          "IsConcreteDevice" : true,
+          "RAMSizeInMegabytes" : 16384,
+          "Name" : "My Mac",
+          "LogicalCPUCoresPerPackage" : 12,
+          "NativeArchitecture" : "x86_64h",
+          "OperatingSystemVersionWithBuildNumber" : "10.14.4 (18E226)",
+          "Platform" : {
+            "Identifier" : "com.apple.platform.macosx",
+            "Name" : "macOS"
+          },
+          "CPUSpeedInMHz" : 2600,
+          "OperatingSystemVersion" : "10.14.4",
+          "BusSpeedInMHz" : 400,
+          "ModelCode" : "MacBookPro15,1",
+          "ModelName" : "MacBook Pro",
+          "PhysicalCPUCoresPerPackage" : 6,
+          "ModelUTI" : "com.apple.macbookpro-15-retina-touchid-2018",
+          "Identifier" : "EFEA0F13-090F-55CF-B997-FFBEDAE299E6",
+          "CPUKind" : "Intel Core i7"
+        }
+      },
+      "Title" : "Clean \"iOSResultBundleApp\"",
+      "SchemeCommand" : "Run"
+    },
+    {
+      "ActionResult" : {
+        "Status" : "IDEActionResultStatus_NotRequested",
+        "TestsCount" : 0,
+        "ErrorCount" : 0,
+        "WarningSummaries" : [
+
+        ],
+        "WarningCount" : 0,
+        "ErrorSummaries" : [
+
+        ],
+        "HasCodeCoverage" : false,
+        "TestFailureSummaries" : [
+
+        ],
+        "AnalyzerWarningSummaries" : [
+
+        ],
+        "AnalyzerWarningCount" : 0,
+        "TestsFailedCount" : 0
+      },
+      "EndedTime" : 576373784,
+      "StartedTime" : 576373750,
+      "SchemeTask" : "Build",
+      "BuildResult" : {
+        "ErrorSummaries" : [
+
+        ],
+        "LogPath" : "2_Analyze\/build.xcactivitylog",
+        "TestFailureSummaries" : [
+
+        ],
+        "HasCodeCoverage" : false,
+        "ErrorCount" : 0,
+        "WarningSummaries" : [
+
+        ],
+        "TestsFailedCount" : 0,
+        "TestsCount" : 0,
+        "WarningCount" : 0,
+        "Status" : "IDEActionResultStatus_Succeeded",
+        "AnalyzerWarningCount" : 0,
+        "AnalyzerWarningSummaries" : [
+
+        ]
+      },
+      "RunDestination" : {
+        "TargetSDK" : {
+          "Identifier" : "iphonesimulator12.2",
+          "Name" : "Simulator - iOS 12.2",
+          "OperatingSystemVersion" : "12.2",
+          "IsInternal" : false
+        },
+        "TargetArchitecture" : "x86_64",
+        "Name" : "iPhone Xʀ",
+        "TargetDevice" : {
+          "NativeArchitecture" : "x86_64",
+          "ModelUTI" : "com.apple.iphone-xr-1",
+          "ModelName" : "iPhone Xʀ",
+          "Platform" : {
+            "Identifier" : "com.apple.platform.iphonesimulator",
+            "Name" : "iOS Simulator"
+          },
+          "OperatingSystemVersionWithBuildNumber" : "12.2 (16E226)",
+          "IsConcreteDevice" : true,
+          "Name" : "iPhone Xʀ",
+          "ModelCode" : "iPhone11,8",
+          "Identifier" : "1FFF0D53-B33E-4870-B087-5031D58D64D2",
+          "OperatingSystemVersion" : "12.2"
+        },
+        "LocalComputer" : {
+          "CPUCount" : 1,
+          "IsConcreteDevice" : true,
+          "RAMSizeInMegabytes" : 16384,
+          "Name" : "My Mac",
+          "LogicalCPUCoresPerPackage" : 12,
+          "NativeArchitecture" : "x86_64h",
+          "OperatingSystemVersionWithBuildNumber" : "10.14.4 (18E226)",
+          "Platform" : {
+            "Identifier" : "com.apple.platform.macosx",
+            "Name" : "macOS"
+          },
+          "CPUSpeedInMHz" : 2600,
+          "OperatingSystemVersion" : "10.14.4",
+          "BusSpeedInMHz" : 400,
+          "ModelCode" : "MacBookPro15,1",
+          "ModelName" : "MacBook Pro",
+          "PhysicalCPUCoresPerPackage" : 6,
+          "ModelUTI" : "com.apple.macbookpro-15-retina-touchid-2018",
+          "Identifier" : "EFEA0F13-090F-55CF-B997-FFBEDAE299E6",
+          "CPUKind" : "Intel Core i7"
+        }
+      },
+      "Title" : "Build for Analyzing \"iOSResultBundleApp\"",
+      "SchemeCommand" : "Analyze"
+    },
+    {
+      "ActionResult" : {
+        "ErrorSummaries" : [
+
+        ],
+        "LogPath" : "3_Test\/action.xcactivitylog",
+        "TestFailureSummaries" : [
+          {
+            "IssueType" : "Uncategorized",
+            "Target" : "iOSResultBundleAppTests",
+            "DocumentLocationData" : "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERITFBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5OdW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5kaW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVOdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE\/\/\/\/\/\/\/\/\/\/\/EACAAxAegABfEGpmaWxlOi8vL1VzZXJzL3JkL3Ivc3dpZnQteGNyZXN1bHQvaU9TUmVzdWx0QnVuZGxlQXBwL2lPU1Jlc3VsdEJ1bmRsZUFwcFRlc3RzL2lPU1Jlc3VsdEJ1bmRsZUFwcFRlc3RzLnN3aWZ00hscHR5aJGNsYXNzbmFtZVgkY2xhc3Nlc18QF0RWVFRleHREb2N1bWVudExvY2F0aW9uox8gIV8QF0RWVFRleHREb2N1bWVudExvY2F0aW9uXxATRFZURG9jdW1lbnRMb2NhdGlvblhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA8AEIAVwBjAHoAjwCjALYAvQDQANoA7wEDAQUBDgEQARIBFAEWAYMBiAGTAZwBtgG6AdQB6gHzAgUCCAINAAAAAAAAAgEAAAAAAAAAJgAAAAAAAAAAAAAAAAAAAg8=",
+            "Message" : "XCTAssertTrue failed",
+            "TestCase" : "iOSResultBundleAppTests.testFail()"
+          },
+          {
+            "IssueType" : "Uncategorized",
+            "Target" : "iOSResultBundleAppUITests",
+            "DocumentLocationData" : "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERITFBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5OdW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5kaW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVOdW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE\/\/\/\/\/\/\/\/\/\/\/EACAAxAlgABfEG5maWxlOi8vL1VzZXJzL3JkL3Ivc3dpZnQteGNyZXN1bHQvaU9TUmVzdWx0QnVuZGxlQXBwL2lPU1Jlc3VsdEJ1bmRsZUFwcFVJVGVzdHMvaU9TUmVzdWx0QnVuZGxlQXBwVUlUZXN0cy5zd2lmdNIbHB0eWiRjbGFzc25hbWVYJGNsYXNzZXNfEBdEVlRUZXh0RG9jdW1lbnRMb2NhdGlvbqMfICFfEBdEVlRUZXh0RG9jdW1lbnRMb2NhdGlvbl8QE0RWVERvY3VtZW50TG9jYXRpb25YTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRJCVUcm9vdIABAAgAEQAaACMALQAyADcAPABCAFcAYwB6AI8AowC2AL0A0ADaAO8BAwEFAQ4BEAESARQBFgGHAYwBlwGgAboBvgHYAe4B9wIJAgwCEQAAAAAAAAIBAAAAAAAAACYAAAAAAAAAAAAAAAAAAAIT",
+            "Message" : "failed - fail",
+            "TestCase" : "iOSResultBundleAppUITests.testFail()"
+          }
+        ],
+        "HasCodeCoverage" : false,
+        "ErrorCount" : 0,
+        "WarningSummaries" : [
+
+        ],
+        "TestsFailedCount" : 2,
+        "TestsCount" : 5,
+        "WarningCount" : 0,
+        "TestSummaryPath" : "3_Test\/action_TestSummaries.plist",
+        "Status" : "IDEActionResultStatus_Failed",
+        "AnalyzerWarningCount" : 0,
+        "AnalyzerWarningSummaries" : [
+
+        ]
+      },
+      "EndedTime" : 576373784,
+      "StartedTime" : 576373753,
+      "SchemeTask" : "BuildAndAction",
+      "BuildResult" : {
+        "ErrorSummaries" : [
+
+        ],
+        "LogPath" : "3_Test\/build.xcactivitylog",
+        "TestFailureSummaries" : [
+
+        ],
+        "HasCodeCoverage" : false,
+        "ErrorCount" : 0,
+        "WarningSummaries" : [
+
+        ],
+        "TestsFailedCount" : 0,
+        "TestsCount" : 0,
+        "WarningCount" : 0,
+        "Status" : "IDEActionResultStatus_Succeeded",
+        "AnalyzerWarningCount" : 0,
+        "AnalyzerWarningSummaries" : [
+
+        ]
+      },
+      "RunDestination" : {
+        "TargetSDK" : {
+          "Identifier" : "iphonesimulator12.2",
+          "Name" : "Simulator - iOS 12.2",
+          "OperatingSystemVersion" : "12.2",
+          "IsInternal" : false
+        },
+        "TargetArchitecture" : "x86_64",
+        "Name" : "iPhone Xʀ",
+        "TargetDevice" : {
+          "NativeArchitecture" : "x86_64",
+          "ModelUTI" : "com.apple.iphone-xr-1",
+          "ModelName" : "iPhone Xʀ",
+          "Platform" : {
+            "Identifier" : "com.apple.platform.iphonesimulator",
+            "Name" : "iOS Simulator"
+          },
+          "OperatingSystemVersionWithBuildNumber" : "12.2 (16E226)",
+          "IsConcreteDevice" : true,
+          "Name" : "iPhone Xʀ",
+          "ModelCode" : "iPhone11,8",
+          "Identifier" : "1FFF0D53-B33E-4870-B087-5031D58D64D2",
+          "OperatingSystemVersion" : "12.2"
+        },
+        "LocalComputer" : {
+          "CPUCount" : 1,
+          "IsConcreteDevice" : true,
+          "RAMSizeInMegabytes" : 16384,
+          "Name" : "My Mac",
+          "LogicalCPUCoresPerPackage" : 12,
+          "NativeArchitecture" : "x86_64h",
+          "OperatingSystemVersionWithBuildNumber" : "10.14.4 (18E226)",
+          "Platform" : {
+            "Identifier" : "com.apple.platform.macosx",
+            "Name" : "macOS"
+          },
+          "CPUSpeedInMHz" : 2600,
+          "OperatingSystemVersion" : "10.14.4",
+          "BusSpeedInMHz" : 400,
+          "ModelCode" : "MacBookPro15,1",
+          "ModelName" : "MacBook Pro",
+          "PhysicalCPUCoresPerPackage" : 6,
+          "ModelUTI" : "com.apple.macbookpro-15-retina-touchid-2018",
+          "Identifier" : "EFEA0F13-090F-55CF-B997-FFBEDAE299E6",
+          "CPUKind" : "Intel Core i7"
+        }
+      },
+      "Title" : "Testing workspace iOSResultBundleApp with scheme iOSResultBundleApp",
+      "SchemeCommand" : "Test"
+    }
+  ],
+  "ErrorCount" : 0,
+  "Running" : false,
+  "TestsFailedCount" : 2,
+  "FormatVersion" : "1.2",
+  "TestsCount" : 5,
+  "SchemeIdentifier" : {
+    "EntityName" : "iOSResultBundleApp",
+    "EntityType" : "scheme",
+    "ContainerName" : "iOSResultBundleApp project",
+    "SharedState" : "shared"
+  },
+  "WarningCount" : 0,
+  "TestSummaryPath" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/TestSummaries.plist",
+  "AnalyzerWarningCount" : 0
+}

@@ -21,7 +21,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(url: "git@github.com:roman-dzieciol/swift-xcactivitylog.git", from: "1.0.0"),
-        .package(url: "git@github.com:roman-dzieciol/swift-xcresult.git", from: "10.2.0-1.1.0+10E125"),
+        .package(url: "git@github.com:roman-dzieciol/swift-xcresult.git", from: "10.2.0-1.2.1+10E125"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.

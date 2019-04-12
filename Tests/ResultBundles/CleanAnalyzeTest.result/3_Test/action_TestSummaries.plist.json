@@ -1,0 +1,384 @@
+{
+  "RunDestination" : {
+    "TargetSDK" : {
+      "Identifier" : "iphonesimulator12.2",
+      "Name" : "Simulator - iOS 12.2",
+      "OperatingSystemVersion" : "12.2",
+      "IsInternal" : false
+    },
+    "TargetArchitecture" : "x86_64",
+    "Name" : "iPhone Xʀ",
+    "TargetDevice" : {
+      "NativeArchitecture" : "x86_64",
+      "ModelUTI" : "com.apple.iphone-xr-1",
+      "ModelName" : "iPhone Xʀ",
+      "Platform" : {
+        "Identifier" : "com.apple.platform.iphonesimulator",
+        "Name" : "iOS Simulator"
+      },
+      "OperatingSystemVersionWithBuildNumber" : "12.2 (16E226)",
+      "IsConcreteDevice" : true,
+      "Name" : "iPhone Xʀ",
+      "ModelCode" : "iPhone11,8",
+      "Identifier" : "1FFF0D53-B33E-4870-B087-5031D58D64D2",
+      "OperatingSystemVersion" : "12.2"
+    },
+    "LocalComputer" : {
+      "CPUCount" : 1,
+      "IsConcreteDevice" : true,
+      "RAMSizeInMegabytes" : 16384,
+      "Name" : "My Mac",
+      "LogicalCPUCoresPerPackage" : 12,
+      "NativeArchitecture" : "x86_64h",
+      "OperatingSystemVersionWithBuildNumber" : "10.14.4 (18E226)",
+      "Platform" : {
+        "Identifier" : "com.apple.platform.macosx",
+        "Name" : "macOS"
+      },
+      "CPUSpeedInMHz" : 2600,
+      "OperatingSystemVersion" : "10.14.4",
+      "BusSpeedInMHz" : 400,
+      "ModelCode" : "MacBookPro15,1",
+      "ModelName" : "MacBook Pro",
+      "PhysicalCPUCoresPerPackage" : 6,
+      "ModelUTI" : "com.apple.macbookpro-15-retina-touchid-2018",
+      "Identifier" : "EFEA0F13-090F-55CF-B997-FFBEDAE299E6",
+      "CPUKind" : "Intel Core i7"
+    }
+  },
+  "FormatVersion" : "1.2",
+  "TestableSummaries" : [
+    {
+      "DiagnosticsDirectory" : "iOSResultBundleAppTests-28FA4076-26FC-4D17-939D-7861C1C09BA9",
+      "TestName" : "iOSResultBundleAppTests",
+      "ProjectPath" : "iOSResultBundleApp.xcodeproj",
+      "TargetName" : "iOSResultBundleAppTests",
+      "Tests" : [
+        {
+          "TestName" : "All tests",
+          "Duration" : 0.32214009761810303,
+          "TestIdentifier" : "All tests",
+          "Subtests" : [
+            {
+              "TestName" : "iOSResultBundleAppTests.xctest",
+              "Duration" : 0.32108092308044434,
+              "TestIdentifier" : "iOSResultBundleAppTests.xctest",
+              "Subtests" : [
+                {
+                  "TestName" : "iOSResultBundleAppTests",
+                  "Duration" : 0.32037496566772461,
+                  "TestIdentifier" : "iOSResultBundleAppTests",
+                  "Subtests" : [
+                    {
+                      "Duration" : 0.0030930042266845703,
+                      "TestSummaryGUID" : "25F86667-DBED-4B20-B572-C81071471A7B",
+                      "TestName" : "testFail()",
+                      "FailureSummaries" : [
+                        {
+                          "PerformanceFailure" : false,
+                          "Message" : "XCTAssertTrue failed",
+                          "FileName" : "\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift",
+                          "LineNumber" : 31
+                        }
+                      ],
+                      "TestIdentifier" : "iOSResultBundleAppTests\/testFail()",
+                      "TestStatus" : "Failure",
+                      "ActivitySummaries" : [
+                        {
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.testAssertionFailure",
+                          "UUID" : "06C4AA82-8CFF-4AA1-B644-D401151CBEE2",
+                          "FinishTimeInterval" : 576373767.70045805,
+                          "StartTimeInterval" : 576373767.69990098,
+                          "Title" : "Assertion Failure: iOSResultBundleAppTests.swift:31: XCTAssertTrue failed"
+                        }
+                      ],
+                      "TestObjectClass" : "IDESchemeActionTestSummary"
+                    },
+                    {
+                      "Duration" : 0.31569492816925049,
+                      "TestSummaryGUID" : "E44B9B80-F8BF-430A-88AE-7AA75E196867",
+                      "TestName" : "testPerformanceExample()",
+                      "PerformanceMetrics" : [
+                        {
+                          "MaxRegression" : 0.10000000000000001,
+                          "MaxPercentRegression" : 10,
+                          "MaxPercentRelativeStandardDeviation" : 10,
+                          "Measurements" : [
+                            2.6620000000000001e-06,
+                            6.3200000000000005e-07,
+                            4.0600000000000001e-07,
+                            4.1199999999999998e-07,
+                            4.2199999999999999e-07,
+                            3.7500000000000001e-07,
+                            3.4200000000000002e-07,
+                            3.3799999999999998e-07,
+                            3.4200000000000002e-07,
+                            3.41e-07
+                          ],
+                          "MaxStandardDeviation" : 0.10000000000000001,
+                          "Name" : "Time",
+                          "Identifier" : "com.apple.XCTPerformanceMetric_WallClockTime",
+                          "UnitOfMeasurement" : "seconds"
+                        }
+                      ],
+                      "TestIdentifier" : "iOSResultBundleAppTests\/testPerformanceExample()",
+                      "TestStatus" : "Success",
+                      "TestObjectClass" : "IDESchemeActionTestSummary"
+                    },
+                    {
+                      "TestStatus" : "Success",
+                      "TestName" : "testSuccess()",
+                      "Duration" : 0.00032699108123779297,
+                      "TestIdentifier" : "iOSResultBundleAppTests\/testSuccess()",
+                      "TestSummaryGUID" : "31DA62BA-0BB8-4192-9DC3-5D5D088AC04D",
+                      "TestObjectClass" : "IDESchemeActionTestSummary"
+                    }
+                  ],
+                  "TestObjectClass" : "IDESchemeActionTestSummaryGroup"
+                }
+              ],
+              "TestObjectClass" : "IDESchemeActionTestSummaryGroup"
+            }
+          ],
+          "TestObjectClass" : "IDESchemeActionTestSummaryGroup"
+        }
+      ],
+      "TestObjectClass" : "IDESchemeActionTestableSummary",
+      "TestKind" : "app hosted"
+    },
+    {
+      "DiagnosticsDirectory" : "iOSResultBundleAppUITests-6B3DBD43-60B6-49A1-A631-9B972359BF93",
+      "TestName" : "iOSResultBundleAppUITests",
+      "ProjectPath" : "iOSResultBundleApp.xcodeproj",
+      "TargetName" : "iOSResultBundleAppUITests",
+      "Tests" : [
+        {
+          "TestName" : "All tests",
+          "Duration" : 10.159963011741638,
+          "TestIdentifier" : "All tests",
+          "Subtests" : [
+            {
+              "TestName" : "iOSResultBundleAppUITests.xctest",
+              "Duration" : 10.158779978752136,
+              "TestIdentifier" : "iOSResultBundleAppUITests.xctest",
+              "Subtests" : [
+                {
+                  "TestName" : "iOSResultBundleAppUITests",
+                  "Duration" : 10.157920956611633,
+                  "TestIdentifier" : "iOSResultBundleAppUITests",
+                  "Subtests" : [
+                    {
+                      "Duration" : 4.3954449892044067,
+                      "TestSummaryGUID" : "5C90AB26-63EF-49BE-B555-19F5B5203967",
+                      "TestName" : "testFail()",
+                      "FailureSummaries" : [
+                        {
+                          "PerformanceFailure" : false,
+                          "Message" : "failed - fail",
+                          "FileName" : "\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppUITests\/iOSResultBundleAppUITests.swift",
+                          "LineNumber" : 38
+                        }
+                      ],
+                      "TestIdentifier" : "iOSResultBundleAppUITests\/testFail()",
+                      "TestStatus" : "Failure",
+                      "ActivitySummaries" : [
+                        {
+                          "UUID" : "6C06786D-E07F-4EF1-9536-405B79E65C76",
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                          "Attachments" : [
+                            {
+                              "Timestamp" : 576373771.81392896,
+                              "Filename" : "Screenshot_6C06786D-E07F-4EF1-9536-405B79E65C76.jpg",
+                              "HasPayload" : true,
+                              "InActivityIdentifier" : 1,
+                              "UniformTypeIdentifier" : "public.jpeg",
+                              "Lifetime" : 1,
+                              "Name" : "kXCTAttachmentLegacyScreenImageData",
+                              "PayloadSize" : 250192
+                            }
+                          ],
+                          "FinishTimeInterval" : 576373771.81400502,
+                          "StartTimeInterval" : 576373771.77367401,
+                          "Title" : "Start Test at 2019-04-08 00:49:31.774"
+                        },
+                        {
+                          "UUID" : "65C36E1A-273D-4F5C-8B43-A0F77CE1D187",
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                          "SubActivities" : [
+                            {
+                              "StartTimeInterval" : 576373771.81913197,
+                              "FinishTimeInterval" : 576373776.14184499,
+                              "UUID" : "D129F66E-B79D-4D3C-A0EC-247874E76F40",
+                              "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                              "Title" : "Open dev.roman.iOSResultBundleApp",
+                              "Attachments" : [
+                                {
+                                  "Timestamp" : 576373771.84534705,
+                                  "Filename" : "Screenshot_D129F66E-B79D-4D3C-A0EC-247874E76F40.jpg",
+                                  "HasPayload" : true,
+                                  "InActivityIdentifier" : 1,
+                                  "UniformTypeIdentifier" : "public.jpeg",
+                                  "Lifetime" : 1,
+                                  "Name" : "kXCTAttachmentLegacyScreenImageData",
+                                  "PayloadSize" : 250192
+                                }
+                              ],
+                              "SubActivities" : [
+                                {
+                                  "UUID" : "C0B6BCB5-FA53-454B-B427-617DC7AB5EBA",
+                                  "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                                  "SubActivities" : [
+                                    {
+                                      "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                                      "UUID" : "0E886931-A78C-447F-A53B-71AEBE76288D",
+                                      "FinishTimeInterval" : 576373774.37899697,
+                                      "StartTimeInterval" : 576373774.27625406,
+                                      "Title" : "Wait for accessibility to load"
+                                    },
+                                    {
+                                      "UUID" : "61491773-FF4F-41AF-9635-590CA041E1C3",
+                                      "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                                      "Attachments" : [
+                                        {
+                                          "Timestamp" : 576373774.70408702,
+                                          "Filename" : "Screenshot_61491773-FF4F-41AF-9635-590CA041E1C3.jpg",
+                                          "HasPayload" : true,
+                                          "InActivityIdentifier" : 1,
+                                          "UniformTypeIdentifier" : "public.jpeg",
+                                          "Lifetime" : 1,
+                                          "Name" : "kXCTAttachmentLegacyScreenImageData",
+                                          "PayloadSize" : 45330
+                                        }
+                                      ],
+                                      "FinishTimeInterval" : 576373775.13850296,
+                                      "StartTimeInterval" : 576373774.648525,
+                                      "Title" : "Wait for dev.roman.iOSResultBundleApp to idle"
+                                    }
+                                  ],
+                                  "FinishTimeInterval" : 576373776.14037097,
+                                  "StartTimeInterval" : 576373771.84544098,
+                                  "Title" : "Launch dev.roman.iOSResultBundleApp"
+                                }
+                              ]
+                            }
+                          ],
+                          "FinishTimeInterval" : 576373776.14279103,
+                          "StartTimeInterval" : 576373771.81489098,
+                          "Title" : "Set Up"
+                        },
+                        {
+                          "UUID" : "5A6EC696-5649-420E-A5CF-032A63390B9E",
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.testAssertionFailure",
+                          "Attachments" : [
+                            {
+                              "Timestamp" : 576373776.16689301,
+                              "Filename" : "Screenshot_5A6EC696-5649-420E-A5CF-032A63390B9E.jpg",
+                              "HasPayload" : true,
+                              "InActivityIdentifier" : 1,
+                              "UniformTypeIdentifier" : "public.jpeg",
+                              "Lifetime" : 1,
+                              "Name" : "kXCTAttachmentLegacyScreenImageData",
+                              "PayloadSize" : 28627
+                            }
+                          ],
+                          "FinishTimeInterval" : 576373776.16699195,
+                          "StartTimeInterval" : 576373776.14516997,
+                          "Title" : "Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail"
+                        },
+                        {
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                          "UUID" : "4CFD5875-6B9C-4B7A-B41D-127C6A59BB8F",
+                          "FinishTimeInterval" : 576373776.16820204,
+                          "StartTimeInterval" : 576373776.16781998,
+                          "Title" : "Tear Down"
+                        }
+                      ],
+                      "TestObjectClass" : "IDESchemeActionTestSummary"
+                    },
+                    {
+                      "Duration" : 5.7613109350204468,
+                      "TestSummaryGUID" : "BF4EC37B-AF8C-4089-B74D-569A21068B91",
+                      "TestName" : "testSuccess()",
+                      "TestIdentifier" : "iOSResultBundleAppUITests\/testSuccess()",
+                      "TestStatus" : "Success",
+                      "ActivitySummaries" : [
+                        {
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                          "UUID" : "CF571940-8E60-480D-9AB0-145C1C164C43",
+                          "FinishTimeInterval" : 576373776.19028497,
+                          "StartTimeInterval" : 576373776.16920102,
+                          "Title" : "Start Test at 2019-04-08 00:49:36.169"
+                        },
+                        {
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.deletedAttachment",
+                          "UUID" : "A8AAE0D5-7A33-4D15-9A6C-32DD36C15554",
+                          "FinishTimeInterval" : 576373776.16920102,
+                          "StartTimeInterval" : 576373776.16920102,
+                          "Title" : "Some screenshots were deleted because your scheme is configured to remove automatic screenshots on success."
+                        },
+                        {
+                          "UUID" : "4B1E3E1D-48E4-48AC-9455-1403E03F78CA",
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                          "SubActivities" : [
+                            {
+                              "UUID" : "DEB5A647-C94B-4FB8-801A-DAE0B13BCDA6",
+                              "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                              "SubActivities" : [
+                                {
+                                  "UUID" : "AA2B68C6-7EB7-4F17-B1BC-D302924F92E5",
+                                  "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                                  "SubActivities" : [
+                                    {
+                                      "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                                      "UUID" : "048EDC40-4E79-4932-9214-775E4DF75E62",
+                                      "FinishTimeInterval" : 576373777.26084805,
+                                      "StartTimeInterval" : 576373776.21291101,
+                                      "Title" : "Terminate dev.roman.iOSResultBundleApp:35745"
+                                    },
+                                    {
+                                      "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                                      "UUID" : "A56B5E0B-39F6-4454-9FF0-DBB69B1E0CD3",
+                                      "FinishTimeInterval" : 576373780.72332501,
+                                      "StartTimeInterval" : 576373780.39916003,
+                                      "Title" : "Wait for dev.roman.iOSResultBundleApp to idle"
+                                    }
+                                  ],
+                                  "FinishTimeInterval" : 576373781.72558105,
+                                  "StartTimeInterval" : 576373776.21248305,
+                                  "Title" : "Launch dev.roman.iOSResultBundleApp"
+                                }
+                              ],
+                              "FinishTimeInterval" : 576373781.72691,
+                              "StartTimeInterval" : 576373776.191733,
+                              "Title" : "Open dev.roman.iOSResultBundleApp"
+                            }
+                          ],
+                          "FinishTimeInterval" : 576373781.727525,
+                          "StartTimeInterval" : 576373776.19082201,
+                          "Title" : "Set Up"
+                        },
+                        {
+                          "ActivityType" : "com.apple.dt.xctest.activity-type.internal",
+                          "UUID" : "885C6DD6-4387-44A6-A16C-180BB1A54D11",
+                          "FinishTimeInterval" : 576373781.728701,
+                          "StartTimeInterval" : 576373781.72822201,
+                          "Title" : "Tear Down"
+                        }
+                      ],
+                      "TestObjectClass" : "IDESchemeActionTestSummary"
+                    }
+                  ],
+                  "TestObjectClass" : "IDESchemeActionTestSummaryGroup"
+                }
+              ],
+              "TestObjectClass" : "IDESchemeActionTestSummaryGroup"
+            }
+          ],
+          "TestObjectClass" : "IDESchemeActionTestSummaryGroup"
+        }
+      ],
+      "TestObjectClass" : "IDESchemeActionTestableSummary",
+      "TestKind" : "UI"
+    }
+  ]
+}

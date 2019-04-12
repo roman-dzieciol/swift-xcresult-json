@@ -2,14 +2,25 @@ import XCTest
 @testable import SWXCResultJSON
 
 final class SWXCResultJSONTests: XCTestCase {
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(SWXCResultJSON().text, "Hello, World!")
+    func testItConvertsToJSON() throws {
+        do {
+            let url = urlForResultBundles()
+            let converter = XCResultJSON()
+            try converter.convert(xcresult: url)
+        } catch {
+            XCTFail("\(error)")
+        }
+    }
+
+    func urlForResultBundles() -> URL {
+        return URL(fileURLWithPath: "\(#file)")
+            .deletingLastPathComponent()
+            .deletingLastPathComponent()
+            .appendingPathComponent("ResultBundles")
+            .appendingPathComponent("CleanAnalyzeTest.result")
     }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("testItConvertsToJSON", testItConvertsToJSON),
     ]
 }
