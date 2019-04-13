@@ -58,7 +58,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-04-07T23:49:44Z</date>
+			<date>2019-04-13T15:43:27Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -152,7 +152,7 @@
 			<key>SchemeTask</key>
 			<string>Build</string>
 			<key>StartedTime</key>
-			<date>2019-04-07T23:49:10Z</date>
+			<date>2019-04-13T15:42:44Z</date>
 			<key>Title</key>
 			<string>Clean "iOSResultBundleApp"</string>
 		</dict>
@@ -210,7 +210,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-04-07T23:49:44Z</date>
+			<date>2019-04-13T15:43:27Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -304,7 +304,7 @@
 			<key>SchemeTask</key>
 			<string>Build</string>
 			<key>StartedTime</key>
-			<date>2019-04-07T23:49:10Z</date>
+			<date>2019-04-13T15:42:44Z</date>
 			<key>Title</key>
 			<string>Build for Analyzing "iOSResultBundleApp"</string>
 		</dict>
@@ -320,7 +320,7 @@
 				<key>ErrorSummaries</key>
 				<array/>
 				<key>HasCodeCoverage</key>
-				<false/>
+				<true/>
 				<key>LogPath</key>
 				<string>3_Test/action.xcactivitylog</string>
 				<key>Status</key>
@@ -455,7 +455,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-04-07T23:49:44Z</date>
+			<date>2019-04-13T15:43:26Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -549,7 +549,7 @@
 			<key>SchemeTask</key>
 			<string>BuildAndAction</string>
 			<key>StartedTime</key>
-			<date>2019-04-07T23:49:13Z</date>
+			<date>2019-04-13T15:42:49Z</date>
 			<key>Title</key>
 			<string>Testing workspace iOSResultBundleApp with scheme iOSResultBundleApp</string>
 		</dict>

@@ -3,9 +3,9 @@
   "version" : 10,
   "root" : {
     "sectionType" : 0,
-    "timeStartedRecording" : 576373753.26192403,
+    "timeStartedRecording" : 576862969.36746395,
     "subtitle" : "",
-    "timeStoppedRecording" : 576373784.33155203,
+    "timeStoppedRecording" : 576863007.23549998,
     "messages" : [
 
     ],
@@ -19,7 +19,7 @@
 
     },
     "commandDetailDesc" : "",
-    "uniqueIdentifier" : "D9762672-5DA7-4511-BDC5-804B9FA351A7",
+    "uniqueIdentifier" : "65C73309-2B5E-4DC7-B6CA-A303055B16A1",
     "localizedResultString" : "",
     "wasCancelled" : 0,
     "subsections" : [
@@ -40,12 +40,12 @@
         "subsections" : [
           {
             "testName" : "",
-            "durationString" : "0.319 seconds",
+            "durationString" : "0.357 seconds",
             "testsPassedString" : "2 out of 3 tests passed",
             "location" : {
 
             },
-            "title" : "iOSResultBundleApp.app (35736)",
+            "title" : "iOSResultBundleApp.app (1635)",
             "summaryString" : "",
             "wasFetchedFromCache" : 0,
             "messages" : [
@@ -75,7 +75,7 @@
                     "submessages" : [
 
                     ],
-                    "timeEmitted" : 576373757,
+                    "timeEmitted" : 576862975,
                     "title" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/iOSResultBundleApp-avrbejipqyqxzwdnyivtxkfpzkgf\/Build\/Products\/Debug-iphonesimulator\/iOSResultBundleApp.app",
                     "categoryIdent" : "",
                     "type" : "com.apple.dt.IDE.UnitTestLogSection.Worker.RunnablePath",
@@ -97,7 +97,7 @@
                     "submessages" : [
 
                     ],
-                    "timeEmitted" : 576373757,
+                    "timeEmitted" : 576862975,
                     "title" : "com.apple.application-bundle",
                     "categoryIdent" : "",
                     "type" : "com.apple.dt.IDE.UnitTestLogSection.Worker.RunnableUTI",
@@ -113,11 +113,11 @@
                 "subsections" : [
 
                 ],
-                "uniqueIdentifier" : "DE150022-E142-4731-B124-3404C10D56AD",
-                "timeStartedRecording" : 576373757.38166106,
+                "uniqueIdentifier" : "1E2997AC-C2A5-43BD-8777-3BFD50A755E4",
+                "timeStartedRecording" : 576862975.93502796,
                 "commandDetailDesc" : "",
                 "localizedResultString" : "",
-                "timeStoppedRecording" : 576373757.38338602,
+                "timeStoppedRecording" : 576862975.93666601,
                 "signature" : "com.apple.dt.XCTest.Metadata",
                 "xcbuildSignature" : "",
                 "suiteName" : "",
@@ -130,15 +130,15 @@
               },
               {
                 "sectionType" : 2,
-                "timeStartedRecording" : 576373757.381724,
+                "timeStartedRecording" : 576862975.93509603,
                 "subtitle" : "",
-                "timeStoppedRecording" : 576373757.38373303,
+                "timeStoppedRecording" : 576862975.93684804,
                 "messages" : [
                   {
                     "location" : {
                       "startingColumnNumber" : -1,
                       "endingColumnNumber" : -1,
-                      "documentURLString" : "file:\/\/\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppTests-28FA4076-26FC-4D17-939D-7861C1C09BA9\/iOSResultBundleAppTests-401B0907-CF03-4C0E-BD62-1823F66622D1\/Session-iOSResultBundleAppTests-2019-04-08_004915-TYw5Ru.log",
+                      "documentURLString" : "file:\/\/\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppTests-75BB329A-C3F7-4AF5-B7A9-F7E3DA39B451\/iOSResultBundleAppTests-D4EA94A2-8D2E-47BE-A1FF-008CC8445DC8\/Session-iOSResultBundleAppTests-2019-04-13_164252-myBKYW.log",
                       "characterRange" : [
                         -1,
                         0
@@ -155,8 +155,8 @@
                     "submessages" : [
 
                     ],
-                    "timeEmitted" : 576373757,
-                    "title" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppTests-28FA4076-26FC-4D17-939D-7861C1C09BA9\/iOSResultBundleAppTests-401B0907-CF03-4C0E-BD62-1823F66622D1\/Session-iOSResultBundleAppTests-2019-04-08_004915-TYw5Ru.log",
+                    "timeEmitted" : 576862975,
+                    "title" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppTests-75BB329A-C3F7-4AF5-B7A9-F7E3DA39B451\/iOSResultBundleAppTests-D4EA94A2-8D2E-47BE-A1FF-008CC8445DC8\/Session-iOSResultBundleAppTests-2019-04-13_164252-myBKYW.log",
                     "categoryIdent" : "",
                     "type" : "com.apple.dt.unit.cocoaUnitTest",
                     "severity" : 0,
@@ -176,8 +176,8 @@
                 "location" : {
 
                 },
-                "commandDetailDesc" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppTests-28FA4076-26FC-4D17-939D-7861C1C09BA9\/iOSResultBundleAppTests-401B0907-CF03-4C0E-BD62-1823F66622D1\/Session-iOSResultBundleAppTests-2019-04-08_004915-TYw5Ru.log",
-                "uniqueIdentifier" : "EBDFE7B7-0F68-4A45-B299-0632D91CB93D",
+                "commandDetailDesc" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppTests-75BB329A-C3F7-4AF5-B7A9-F7E3DA39B451\/iOSResultBundleAppTests-D4EA94A2-8D2E-47BE-A1FF-008CC8445DC8\/Session-iOSResultBundleAppTests-2019-04-13_164252-myBKYW.log",
+                "uniqueIdentifier" : "AC42FD23-E5BF-456E-91C6-2144EA87E14A",
                 "localizedResultString" : "",
                 "wasCancelled" : 0,
                 "subsections" : [
@@ -187,13 +187,13 @@
               },
               {
                 "testName" : "",
-                "durationString" : "0.319 seconds",
+                "durationString" : "0.357 seconds",
                 "testsPassedString" : "2 out of 3 tests passed",
                 "location" : {
 
                 },
                 "title" : "Run test suite All tests",
-                "summaryString" : "Test Suite 'All tests' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.322) seconds\r",
+                "summaryString" : "Test Suite 'All tests' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.360) seconds\r",
                 "wasFetchedFromCache" : 0,
                 "messages" : [
 
@@ -202,13 +202,13 @@
                 "subsections" : [
                   {
                     "testName" : "",
-                    "durationString" : "0.319 seconds",
+                    "durationString" : "0.357 seconds",
                     "testsPassedString" : "2 out of 3 tests passed",
                     "location" : {
 
                     },
                     "title" : "Run test suite iOSResultBundleAppTests.xctest",
-                    "summaryString" : "Test Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.321) seconds\r",
+                    "summaryString" : "Test Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.359) seconds\r",
                     "wasFetchedFromCache" : 0,
                     "messages" : [
 
@@ -217,13 +217,13 @@
                     "subsections" : [
                       {
                         "testName" : "",
-                        "durationString" : "0.319 seconds",
+                        "durationString" : "0.357 seconds",
                         "testsPassedString" : "2 out of 3 tests passed",
                         "location" : {
 
                         },
                         "title" : "Run test suite iOSResultBundleAppTests",
-                        "summaryString" : "Test Suite 'iOSResultBundleAppTests' failed at 2019-04-08 00:49:28.018.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.320) seconds\r",
+                        "summaryString" : "Test Suite 'iOSResultBundleAppTests' failed at 2019-04-13 16:43:08.390.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.358) seconds\r",
                         "wasFetchedFromCache" : 0,
                         "messages" : [
 
@@ -232,13 +232,13 @@
                         "subsections" : [
                           {
                             "testName" : "testFail()",
-                            "durationString" : "0.003 seconds",
+                            "durationString" : "0.006 seconds",
                             "testsPassedString" : "",
                             "location" : {
 
                             },
                             "title" : "Run test case testFail()",
-                            "summaryString" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.003 seconds).\r",
+                            "summaryString" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.006 seconds).\r",
                             "wasFetchedFromCache" : 0,
                             "messages" : [
                               {
@@ -262,7 +262,7 @@
                                 "submessages" : [
 
                                 ],
-                                "timeEmitted" : 576373767,
+                                "timeEmitted" : 576862988,
                                 "title" : "XCTAssertTrue failed",
                                 "categoryIdent" : "",
                                 "type" : "",
@@ -278,11 +278,11 @@
                             "subsections" : [
 
                             ],
-                            "uniqueIdentifier" : "3E8569FD-D271-46F5-A310-A3319848461B",
-                            "timeStartedRecording" : 576373767.70240295,
+                            "uniqueIdentifier" : "5A999F60-503E-44F2-AE96-125111D5DC49",
+                            "timeStartedRecording" : 576862988.03885996,
                             "commandDetailDesc" : "",
                             "localizedResultString" : "",
-                            "timeStoppedRecording" : 576373767.70517397,
+                            "timeStoppedRecording" : 576862988.04490805,
                             "signature" : "Run test case testFail()",
                             "xcbuildSignature" : "",
                             "suiteName" : "iOSResultBundleAppTests",
@@ -290,18 +290,18 @@
                             "subtitle" : "",
                             "sectionType" : 3,
                             "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                            "text" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.003 seconds).\r",
+                            "text" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.006 seconds).\r",
                             "isQuiet" : 0
                           },
                           {
                             "testName" : "testPerformanceExample()",
-                            "durationString" : "0.316 seconds",
+                            "durationString" : "0.351 seconds",
                             "testsPassedString" : "",
                             "location" : {
 
                             },
                             "title" : "Run test case testPerformanceExample()",
-                            "summaryString" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.316 seconds).\r",
+                            "summaryString" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.351 seconds).\r",
                             "wasFetchedFromCache" : 0,
                             "messages" : [
                               {
@@ -315,8 +315,8 @@
                                 "submessages" : [
 
                                 ],
-                                "timeEmitted" : 576373768,
-                                "title" : "Time average: 0.000 seconds, relative standard deviation: 109.0%",
+                                "timeEmitted" : 576862988,
+                                "title" : "Time average: 0.000 seconds, relative standard deviation: 103.0%",
                                 "categoryIdent" : "",
                                 "type" : "com.apple.dt.unit.cocoaUnitTest",
                                 "severity" : 0,
@@ -331,11 +331,11 @@
                             "subsections" : [
 
                             ],
-                            "uniqueIdentifier" : "8D9A6726-70C5-4E19-8FA4-1725AD9ABD6E",
-                            "timeStartedRecording" : 576373767.80476904,
+                            "uniqueIdentifier" : "A362531B-F8FC-4847-948D-475BF51CFAAB",
+                            "timeStartedRecording" : 576862988.141083,
                             "commandDetailDesc" : "",
                             "localizedResultString" : "",
-                            "timeStoppedRecording" : 576373768.021016,
+                            "timeStoppedRecording" : 576862988.39343202,
                             "signature" : "Run test case testPerformanceExample()",
                             "xcbuildSignature" : "",
                             "suiteName" : "iOSResultBundleAppTests",
@@ -343,7 +343,7 @@
                             "subtitle" : "",
                             "sectionType" : 3,
                             "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                            "text" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 108.952%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.316 seconds).\r",
+                            "text" : "Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 103.030%, values: [0.000003, 0.000001, 0.000001, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.351 seconds).\r",
                             "isQuiet" : 0
                           },
                           {
@@ -363,11 +363,11 @@
                             "subsections" : [
 
                             ],
-                            "uniqueIdentifier" : "3F88154A-0F2A-4C0C-AA5C-87B1626586AF",
-                            "timeStartedRecording" : 576373768.01908398,
+                            "uniqueIdentifier" : "CF5CF92B-217D-4974-BD40-6E9B8AD5FCCD",
+                            "timeStartedRecording" : 576862988.39200699,
                             "commandDetailDesc" : "",
                             "localizedResultString" : "",
-                            "timeStoppedRecording" : 576373768.02179897,
+                            "timeStoppedRecording" : 576862988.39386702,
                             "signature" : "Run test case testSuccess()",
                             "xcbuildSignature" : "",
                             "suiteName" : "iOSResultBundleAppTests",
@@ -379,11 +379,11 @@
                             "isQuiet" : 0
                           }
                         ],
-                        "uniqueIdentifier" : "C65D6305-8CF3-47B5-9224-DFD9B2A562F2",
-                        "timeStartedRecording" : 576373767.69928503,
+                        "uniqueIdentifier" : "A8CEDF61-4AEB-402E-84D4-3C853F1D63CB",
+                        "timeStartedRecording" : 576862988.03384101,
                         "commandDetailDesc" : "",
                         "localizedResultString" : "",
-                        "timeStoppedRecording" : 576373768.02226198,
+                        "timeStoppedRecording" : 576862988.394171,
                         "signature" : "Run test suite iOSResultBundleAppTests",
                         "xcbuildSignature" : "",
                         "suiteName" : "iOSResultBundleAppTests",
@@ -391,15 +391,15 @@
                         "subtitle" : "",
                         "sectionType" : 3,
                         "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                        "text" : "Test Suite 'iOSResultBundleAppTests' started at 2019-04-08 00:49:27.698\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.003 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 108.952%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.316 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-08 00:49:28.018.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.320) seconds\r",
+                        "text" : "Test Suite 'iOSResultBundleAppTests' started at 2019-04-13 16:43:08.032\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.006 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 103.030%, values: [0.000003, 0.000001, 0.000001, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.351 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-13 16:43:08.390.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.358) seconds\r",
                         "isQuiet" : 0
                       }
                     ],
-                    "uniqueIdentifier" : "BE3F433D-904F-49CB-B167-386EF46D7EC5",
-                    "timeStartedRecording" : 576373767.69921803,
+                    "uniqueIdentifier" : "4AB6DD06-96E8-49EE-A509-6B38362CA9B1",
+                    "timeStartedRecording" : 576862988.03353596,
                     "commandDetailDesc" : "",
                     "localizedResultString" : "",
-                    "timeStoppedRecording" : 576373768.02265096,
+                    "timeStoppedRecording" : 576862988.39436901,
                     "signature" : "Run test suite iOSResultBundleAppTests.xctest",
                     "xcbuildSignature" : "",
                     "suiteName" : "iOSResultBundleAppTests.xctest",
@@ -407,15 +407,15 @@
                     "subtitle" : "",
                     "sectionType" : 3,
                     "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                    "text" : "Test Suite 'iOSResultBundleAppTests.xctest' started at 2019-04-08 00:49:27.697\rTest Suite 'iOSResultBundleAppTests' started at 2019-04-08 00:49:27.698\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.003 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 108.952%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.316 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-08 00:49:28.018.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.320) seconds\rTest Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.321) seconds\r",
+                    "text" : "Test Suite 'iOSResultBundleAppTests.xctest' started at 2019-04-13 16:43:08.032\rTest Suite 'iOSResultBundleAppTests' started at 2019-04-13 16:43:08.032\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.006 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 103.030%, values: [0.000003, 0.000001, 0.000001, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.351 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-13 16:43:08.390.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.358) seconds\rTest Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.359) seconds\r",
                     "isQuiet" : 0
                   }
                 ],
-                "uniqueIdentifier" : "ADFD0A4B-1CBC-4CE8-970B-18ECAFD9BB0D",
-                "timeStartedRecording" : 576373767.69869697,
+                "uniqueIdentifier" : "96091817-7028-4C92-887D-29FE5310C396",
+                "timeStartedRecording" : 576862988.03285897,
                 "commandDetailDesc" : "",
                 "localizedResultString" : "",
-                "timeStoppedRecording" : 576373768.12620294,
+                "timeStoppedRecording" : 576862988.49564505,
                 "signature" : "Run test suite All tests",
                 "xcbuildSignature" : "",
                 "suiteName" : "All tests",
@@ -423,15 +423,15 @@
                 "subtitle" : "",
                 "sectionType" : 3,
                 "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                "text" : "Test Suite 'All tests' started at 2019-04-08 00:49:27.697\rTest Suite 'iOSResultBundleAppTests.xctest' started at 2019-04-08 00:49:27.697\rTest Suite 'iOSResultBundleAppTests' started at 2019-04-08 00:49:27.698\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.003 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 108.952%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.316 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-08 00:49:28.018.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.320) seconds\rTest Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.321) seconds\rTest Suite 'All tests' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.322) seconds\r",
+                "text" : "Test Suite 'All tests' started at 2019-04-13 16:43:08.031\rTest Suite 'iOSResultBundleAppTests.xctest' started at 2019-04-13 16:43:08.032\rTest Suite 'iOSResultBundleAppTests' started at 2019-04-13 16:43:08.032\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.006 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 103.030%, values: [0.000003, 0.000001, 0.000001, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.351 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-13 16:43:08.390.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.358) seconds\rTest Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.359) seconds\rTest Suite 'All tests' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.360) seconds\r",
                 "isQuiet" : 0
               }
             ],
-            "uniqueIdentifier" : "EECC4DD1-8E3E-46E0-A28B-4F0E577818ED",
-            "timeStartedRecording" : 576373757.38164794,
+            "uniqueIdentifier" : "5A51B428-BE36-4785-837A-C2A822A09EE4",
+            "timeStartedRecording" : 576862975.93501496,
             "commandDetailDesc" : "",
             "localizedResultString" : "",
-            "timeStoppedRecording" : 576373768.29735196,
+            "timeStoppedRecording" : 576862988.67199397,
             "signature" : "",
             "xcbuildSignature" : "",
             "suiteName" : "",
@@ -439,15 +439,15 @@
             "subtitle" : "",
             "sectionType" : 3,
             "recorder" : "com.apple.dt.IDE.UnitTestLogSection.Worker",
-            "text" : "Test Suite 'All tests' started at 2019-04-08 00:49:27.697\rTest Suite 'iOSResultBundleAppTests.xctest' started at 2019-04-08 00:49:27.697\rTest Suite 'iOSResultBundleAppTests' started at 2019-04-08 00:49:27.698\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.003 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 108.952%, values: [0.000003, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.316 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-08 00:49:28.018.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.320) seconds\rTest Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.321) seconds\rTest Suite 'All tests' failed at 2019-04-08 00:49:28.019.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.319 (0.322) seconds\r",
+            "text" : "Test Suite 'All tests' started at 2019-04-13 16:43:08.031\rTest Suite 'iOSResultBundleAppTests.xctest' started at 2019-04-13 16:43:08.032\rTest Suite 'iOSResultBundleAppTests' started at 2019-04-13 16:43:08.032\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:31: error: -[iOSResultBundleAppTests.iOSResultBundleAppTests testFail] : XCTAssertTrue failed\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testFail]' failed (0.006 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' started.\r\/Users\/rd\/r\/swift-xcresult\/iOSResultBundleApp\/iOSResultBundleAppTests\/iOSResultBundleAppTests.swift:36: Test Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 103.030%, values: [0.000003, 0.000001, 0.000001, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: \"\", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testPerformanceExample]' passed (0.351 seconds).\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' started.\rTest Case '-[iOSResultBundleAppTests.iOSResultBundleAppTests testSuccess]' passed (0.000 seconds).\rTest Suite 'iOSResultBundleAppTests' failed at 2019-04-13 16:43:08.390.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.358) seconds\rTest Suite 'iOSResultBundleAppTests.xctest' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.359) seconds\rTest Suite 'All tests' failed at 2019-04-13 16:43:08.391.\r\t Executed 3 tests, with 1 failure (0 unexpected) in 0.357 (0.360) seconds\r",
             "isQuiet" : 0
           }
         ],
-        "uniqueIdentifier" : "478A3746-F092-41B6-93B1-B838B29EEBB8",
-        "timeStartedRecording" : 576373757.38151801,
+        "uniqueIdentifier" : "ECCB90CE-C807-4B2C-B8D3-F4E98A6FA154",
+        "timeStartedRecording" : 576862975.93482697,
         "commandDetailDesc" : "",
         "localizedResultString" : "",
-        "timeStoppedRecording" : 576373768.29742396,
+        "timeStoppedRecording" : 576862988.67209899,
         "signature" : "Test target iOSResultBundleAppTests",
         "xcbuildSignature" : "",
         "suiteName" : "",
@@ -475,12 +475,12 @@
         "subsections" : [
           {
             "testName" : "",
-            "durationString" : "10.157 seconds",
+            "durationString" : "9.427 seconds",
             "testsPassedString" : "1 out of 2 tests passed",
             "location" : {
 
             },
-            "title" : "iOSResultBundleAppUITests-Runner.app (35741)",
+            "title" : "iOSResultBundleAppUITests-Runner.app (1638)",
             "summaryString" : "",
             "wasFetchedFromCache" : 0,
             "messages" : [
@@ -510,7 +510,7 @@
                     "submessages" : [
 
                     ],
-                    "timeEmitted" : 576373768,
+                    "timeEmitted" : 576862988,
                     "title" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/iOSResultBundleApp-avrbejipqyqxzwdnyivtxkfpzkgf\/Build\/Products\/Debug-iphonesimulator\/iOSResultBundleAppUITests-Runner.app",
                     "categoryIdent" : "",
                     "type" : "com.apple.dt.IDE.UnitTestLogSection.Worker.RunnablePath",
@@ -532,7 +532,7 @@
                     "submessages" : [
 
                     ],
-                    "timeEmitted" : 576373768,
+                    "timeEmitted" : 576862988,
                     "title" : "com.apple.application-bundle",
                     "categoryIdent" : "",
                     "type" : "com.apple.dt.IDE.UnitTestLogSection.Worker.RunnableUTI",
@@ -548,11 +548,11 @@
                 "subsections" : [
 
                 ],
-                "uniqueIdentifier" : "43381506-0644-4D72-AA18-BAAAADAA7B30",
-                "timeStartedRecording" : 576373768.30546105,
+                "uniqueIdentifier" : "A606E85C-FB78-4A6C-B1B7-2726BBDFDF90",
+                "timeStartedRecording" : 576862988.68152499,
                 "commandDetailDesc" : "",
                 "localizedResultString" : "",
-                "timeStoppedRecording" : 576373768.30601895,
+                "timeStoppedRecording" : 576862988.68203902,
                 "signature" : "com.apple.dt.XCTest.Metadata",
                 "xcbuildSignature" : "",
                 "suiteName" : "",
@@ -565,15 +565,15 @@
               },
               {
                 "sectionType" : 2,
-                "timeStartedRecording" : 576373768.30548894,
+                "timeStartedRecording" : 576862988.68155503,
                 "subtitle" : "",
-                "timeStoppedRecording" : 576373768.30618405,
+                "timeStoppedRecording" : 576862988.68218994,
                 "messages" : [
                   {
                     "location" : {
                       "startingColumnNumber" : -1,
                       "endingColumnNumber" : -1,
-                      "documentURLString" : "file:\/\/\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppUITests-6B3DBD43-60B6-49A1-A631-9B972359BF93\/iOSResultBundleAppUITests-36D2F37F-7E6F-46BC-9453-25E078A1EF55\/Session-iOSResultBundleAppUITests-2019-04-08_004928-UIT4hI.log",
+                      "documentURLString" : "file:\/\/\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppUITests-32A1C6E2-34DD-486C-926D-F68A4CCCB5D7\/iOSResultBundleAppUITests-A618C95B-D4D5-4715-8E9E-2E770F075005\/Session-iOSResultBundleAppUITests-2019-04-13_164308-oYX5b3.log",
                       "characterRange" : [
                         -1,
                         0
@@ -590,8 +590,8 @@
                     "submessages" : [
 
                     ],
-                    "timeEmitted" : 576373768,
-                    "title" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppUITests-6B3DBD43-60B6-49A1-A631-9B972359BF93\/iOSResultBundleAppUITests-36D2F37F-7E6F-46BC-9453-25E078A1EF55\/Session-iOSResultBundleAppUITests-2019-04-08_004928-UIT4hI.log",
+                    "timeEmitted" : 576862988,
+                    "title" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppUITests-32A1C6E2-34DD-486C-926D-F68A4CCCB5D7\/iOSResultBundleAppUITests-A618C95B-D4D5-4715-8E9E-2E770F075005\/Session-iOSResultBundleAppUITests-2019-04-13_164308-oYX5b3.log",
                     "categoryIdent" : "",
                     "type" : "com.apple.dt.unit.cocoaUnitTest",
                     "severity" : 0,
@@ -611,8 +611,8 @@
                 "location" : {
 
                 },
-                "commandDetailDesc" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppUITests-6B3DBD43-60B6-49A1-A631-9B972359BF93\/iOSResultBundleAppUITests-36D2F37F-7E6F-46BC-9453-25E078A1EF55\/Session-iOSResultBundleAppUITests-2019-04-08_004928-UIT4hI.log",
-                "uniqueIdentifier" : "73F50A7D-046C-4D79-9CAE-330B97D50C2B",
+                "commandDetailDesc" : "\/Users\/rd\/Library\/Developer\/Xcode\/DerivedData\/SWXCResult-apuazgjgbifzbjbkyxuybgjqduvu\/Build\/Products\/Debug\/CleanAnalyzeTest.result\/3_Test\/Diagnostics\/iOSResultBundleAppUITests-32A1C6E2-34DD-486C-926D-F68A4CCCB5D7\/iOSResultBundleAppUITests-A618C95B-D4D5-4715-8E9E-2E770F075005\/Session-iOSResultBundleAppUITests-2019-04-13_164308-oYX5b3.log",
+                "uniqueIdentifier" : "B5B3C86B-81F9-4838-A825-DFD095021EFA",
                 "localizedResultString" : "",
                 "wasCancelled" : 0,
                 "subsections" : [
@@ -622,13 +622,13 @@
               },
               {
                 "testName" : "",
-                "durationString" : "10.157 seconds",
+                "durationString" : "9.427 seconds",
                 "testsPassedString" : "1 out of 2 tests passed",
                 "location" : {
 
                 },
                 "title" : "Run test suite All tests",
-                "summaryString" : "Test Suite 'All tests' failed at 2019-04-08 00:49:41.932.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.160) seconds\r",
+                "summaryString" : "Test Suite 'All tests' failed at 2019-04-13 16:43:21.986.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.431) seconds\r",
                 "wasFetchedFromCache" : 0,
                 "messages" : [
 
@@ -637,13 +637,13 @@
                 "subsections" : [
                   {
                     "testName" : "",
-                    "durationString" : "10.157 seconds",
+                    "durationString" : "9.427 seconds",
                     "testsPassedString" : "1 out of 2 tests passed",
                     "location" : {
 
                     },
                     "title" : "Run test suite iOSResultBundleAppUITests.xctest",
-                    "summaryString" : "Test Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.159) seconds\r",
+                    "summaryString" : "Test Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-13 16:43:21.985.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.430) seconds\r",
                     "wasFetchedFromCache" : 0,
                     "messages" : [
 
@@ -652,13 +652,13 @@
                     "subsections" : [
                       {
                         "testName" : "",
-                        "durationString" : "10.157 seconds",
+                        "durationString" : "9.427 seconds",
                         "testsPassedString" : "1 out of 2 tests passed",
                         "location" : {
 
                         },
                         "title" : "Run test suite iOSResultBundleAppUITests",
-                        "summaryString" : "Test Suite 'iOSResultBundleAppUITests' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.158) seconds\r",
+                        "summaryString" : "Test Suite 'iOSResultBundleAppUITests' failed at 2019-04-13 16:43:21.984.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.429) seconds\r",
                         "wasFetchedFromCache" : 0,
                         "messages" : [
 
@@ -667,13 +667,13 @@
                         "subsections" : [
                           {
                             "testName" : "testFail()",
-                            "durationString" : "4.395 seconds",
+                            "durationString" : "4.246 seconds",
                             "testsPassedString" : "",
                             "location" : {
 
                             },
                             "title" : "Run test case testFail()",
-                            "summaryString" : "    t =     4.37s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.39s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.395 seconds).\r",
+                            "summaryString" : "    t =     4.22s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.24s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.246 seconds).\r",
                             "wasFetchedFromCache" : 0,
                             "messages" : [
                               {
@@ -697,7 +697,7 @@
                                 "submessages" : [
 
                                 ],
-                                "timeEmitted" : 576373776,
+                                "timeEmitted" : 576862996,
                                 "title" : "failed - fail",
                                 "categoryIdent" : "",
                                 "type" : "",
@@ -713,11 +713,11 @@
                             "subsections" : [
 
                             ],
-                            "uniqueIdentifier" : "618A2D84-B53C-4380-A878-E68887EA0011",
-                            "timeStartedRecording" : 576373771.774189,
+                            "uniqueIdentifier" : "329A7098-DCD4-411C-AAF7-D8D726C6F566",
+                            "timeStartedRecording" : 576862992.55691695,
                             "commandDetailDesc" : "",
                             "localizedResultString" : "",
-                            "timeStoppedRecording" : 576373776.17240405,
+                            "timeStoppedRecording" : 576862996.80438805,
                             "signature" : "Run test case testFail()",
                             "xcbuildSignature" : "",
                             "suiteName" : "iOSResultBundleAppUITests",
@@ -725,18 +725,18 @@
                             "subtitle" : "",
                             "sectionType" : 3,
                             "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                            "text" : "Test Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:31.774\r    t =     0.04s Set Up\r    t =     0.05s     Open dev.roman.iOSResultBundleApp\r    t =     0.07s         Launch dev.roman.iOSResultBundleApp\r    t =     2.50s             Wait for accessibility to load\r    t =     2.88s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.37s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.39s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.395 seconds).\r",
+                            "text" : "Test Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:12.556\r    t =     0.06s Set Up\r    t =     0.06s     Open dev.roman.iOSResultBundleApp\r    t =     0.09s         Launch dev.roman.iOSResultBundleApp\r    t =     2.85s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.22s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.24s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.246 seconds).\r",
                             "isQuiet" : 0
                           },
                           {
                             "testName" : "testSuccess()",
-                            "durationString" : "5.761 seconds",
+                            "durationString" : "5.181 seconds",
                             "testsPassedString" : "",
                             "location" : {
 
                             },
                             "title" : "Run test case testSuccess()",
-                            "summaryString" : "    t =     0.00s Start Test at 2019-04-08 00:49:36.169\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:35745\r    t =     4.23s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     5.56s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.761 seconds).\r",
+                            "summaryString" : "    t =     0.00s Start Test at 2019-04-13 16:43:16.803\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:1644\r    t =     3.61s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.98s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.181 seconds).\r",
                             "wasFetchedFromCache" : 0,
                             "messages" : [
 
@@ -745,11 +745,11 @@
                             "subsections" : [
 
                             ],
-                            "uniqueIdentifier" : "AAF96718-7876-4661-829B-661CC66BF259",
-                            "timeStartedRecording" : 576373776.17221498,
+                            "uniqueIdentifier" : "2F0FD981-439C-4F68-8CF6-41FEC64F60D8",
+                            "timeStartedRecording" : 576862996.803895,
                             "commandDetailDesc" : "",
                             "localizedResultString" : "",
-                            "timeStoppedRecording" : 576373781.93552399,
+                            "timeStoppedRecording" : 576863001.99003303,
                             "signature" : "Run test case testSuccess()",
                             "xcbuildSignature" : "",
                             "suiteName" : "iOSResultBundleAppUITests",
@@ -757,15 +757,15 @@
                             "subtitle" : "",
                             "sectionType" : 3,
                             "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                            "text" : "Test Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:36.169\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:35745\r    t =     4.23s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     5.56s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.761 seconds).\r",
+                            "text" : "Test Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:16.803\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:1644\r    t =     3.61s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.98s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.181 seconds).\r",
                             "isQuiet" : 0
                           }
                         ],
-                        "uniqueIdentifier" : "199B6DEB-14D3-450E-ACE4-64F203CBAD62",
-                        "timeStartedRecording" : 576373771.77360404,
+                        "uniqueIdentifier" : "77A0A098-BEAB-49D9-B0D2-DF04A155EAD4",
+                        "timeStartedRecording" : 576862992.55624199,
                         "commandDetailDesc" : "",
                         "localizedResultString" : "",
-                        "timeStoppedRecording" : 576373781.93609798,
+                        "timeStoppedRecording" : 576863001.99079704,
                         "signature" : "Run test suite iOSResultBundleAppUITests",
                         "xcbuildSignature" : "",
                         "suiteName" : "iOSResultBundleAppUITests",
@@ -773,15 +773,15 @@
                         "subtitle" : "",
                         "sectionType" : 3,
                         "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                        "text" : "Test Suite 'iOSResultBundleAppUITests' started at 2019-04-08 00:49:31.773\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:31.774\r    t =     0.04s Set Up\r    t =     0.05s     Open dev.roman.iOSResultBundleApp\r    t =     0.07s         Launch dev.roman.iOSResultBundleApp\r    t =     2.50s             Wait for accessibility to load\r    t =     2.88s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.37s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.39s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.395 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:36.169\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:35745\r    t =     4.23s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     5.56s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.761 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.158) seconds\r",
+                        "text" : "Test Suite 'iOSResultBundleAppUITests' started at 2019-04-13 16:43:12.555\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:12.556\r    t =     0.06s Set Up\r    t =     0.06s     Open dev.roman.iOSResultBundleApp\r    t =     0.09s         Launch dev.roman.iOSResultBundleApp\r    t =     2.85s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.22s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.24s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.246 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:16.803\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:1644\r    t =     3.61s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.98s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.181 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-13 16:43:21.984.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.429) seconds\r",
                         "isQuiet" : 0
                       }
                     ],
-                    "uniqueIdentifier" : "0F44663E-9D7E-4153-85BE-8166BF6615E4",
-                    "timeStartedRecording" : 576373771.77333999,
+                    "uniqueIdentifier" : "E9AEE5C8-934B-4FD3-BDC9-6D66080B3809",
+                    "timeStartedRecording" : 576862992.55594802,
                     "commandDetailDesc" : "",
                     "localizedResultString" : "",
-                    "timeStoppedRecording" : 576373781.93654001,
+                    "timeStoppedRecording" : 576863001.99126601,
                     "signature" : "Run test suite iOSResultBundleAppUITests.xctest",
                     "xcbuildSignature" : "",
                     "suiteName" : "iOSResultBundleAppUITests.xctest",
@@ -789,15 +789,15 @@
                     "subtitle" : "",
                     "sectionType" : 3,
                     "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                    "text" : "Test Suite 'iOSResultBundleAppUITests.xctest' started at 2019-04-08 00:49:31.772\rTest Suite 'iOSResultBundleAppUITests' started at 2019-04-08 00:49:31.773\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:31.774\r    t =     0.04s Set Up\r    t =     0.05s     Open dev.roman.iOSResultBundleApp\r    t =     0.07s         Launch dev.roman.iOSResultBundleApp\r    t =     2.50s             Wait for accessibility to load\r    t =     2.88s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.37s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.39s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.395 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:36.169\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:35745\r    t =     4.23s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     5.56s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.761 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.158) seconds\rTest Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.159) seconds\r",
+                    "text" : "Test Suite 'iOSResultBundleAppUITests.xctest' started at 2019-04-13 16:43:12.555\rTest Suite 'iOSResultBundleAppUITests' started at 2019-04-13 16:43:12.555\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:12.556\r    t =     0.06s Set Up\r    t =     0.06s     Open dev.roman.iOSResultBundleApp\r    t =     0.09s         Launch dev.roman.iOSResultBundleApp\r    t =     2.85s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.22s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.24s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.246 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:16.803\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:1644\r    t =     3.61s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.98s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.181 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-13 16:43:21.984.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.429) seconds\rTest Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-13 16:43:21.985.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.430) seconds\r",
                     "isQuiet" : 0
                   }
                 ],
-                "uniqueIdentifier" : "6E8AC80E-E5F4-466E-8EA0-A3E27FB84F66",
-                "timeStartedRecording" : 576373771.77295601,
+                "uniqueIdentifier" : "7ADFB213-F687-41C4-A6CB-EA6CB80252B3",
+                "timeStartedRecording" : 576862992.55557895,
                 "commandDetailDesc" : "",
                 "localizedResultString" : "",
-                "timeStoppedRecording" : 576373782.03420198,
+                "timeStoppedRecording" : 576863002.09177005,
                 "signature" : "Run test suite All tests",
                 "xcbuildSignature" : "",
                 "suiteName" : "All tests",
@@ -805,15 +805,15 @@
                 "subtitle" : "",
                 "sectionType" : 3,
                 "recorder" : "com.apple.dt.IDE.UnitTestLogSection",
-                "text" : "2019-04-08 00:49:31.038879+0100 iOSResultBundleAppUITests-Runner[35741:1314184] Running tests...\r2019-04-08 00:49:31.157686+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unable to look up screen scale\r2019-04-08 00:49:31.157791+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unexpected physical screen orientation\r2019-04-08 00:49:31.173200+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unable to look up screen scale\r2019-04-08 00:49:31.175826+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unable to look up screen scale\r2019-04-08 00:49:31.175906+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unexpected physical screen orientation\rTest Suite 'All tests' started at 2019-04-08 00:49:31.772\rTest Suite 'iOSResultBundleAppUITests.xctest' started at 2019-04-08 00:49:31.772\rTest Suite 'iOSResultBundleAppUITests' started at 2019-04-08 00:49:31.773\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:31.774\r    t =     0.04s Set Up\r    t =     0.05s     Open dev.roman.iOSResultBundleApp\r    t =     0.07s         Launch dev.roman.iOSResultBundleApp\r    t =     2.50s             Wait for accessibility to load\r    t =     2.88s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.37s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.39s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.395 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:36.169\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:35745\r    t =     4.23s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     5.56s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.761 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.158) seconds\rTest Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.159) seconds\rTest Suite 'All tests' failed at 2019-04-08 00:49:41.932.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.160) seconds\r",
+                "text" : "2019-04-13 16:43:11.515407+0100 iOSResultBundleAppUITests-Runner[1638:13350] Running tests...\r2019-04-13 16:43:11.689871+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unable to look up screen scale\r2019-04-13 16:43:11.689957+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unexpected physical screen orientation\r2019-04-13 16:43:11.706432+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unable to look up screen scale\r2019-04-13 16:43:11.710015+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unable to look up screen scale\r2019-04-13 16:43:11.710103+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unexpected physical screen orientation\rTest Suite 'All tests' started at 2019-04-13 16:43:12.554\rTest Suite 'iOSResultBundleAppUITests.xctest' started at 2019-04-13 16:43:12.555\rTest Suite 'iOSResultBundleAppUITests' started at 2019-04-13 16:43:12.555\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:12.556\r    t =     0.06s Set Up\r    t =     0.06s     Open dev.roman.iOSResultBundleApp\r    t =     0.09s         Launch dev.roman.iOSResultBundleApp\r    t =     2.85s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.22s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.24s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.246 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:16.803\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:1644\r    t =     3.61s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.98s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.181 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-13 16:43:21.984.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.429) seconds\rTest Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-13 16:43:21.985.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.430) seconds\rTest Suite 'All tests' failed at 2019-04-13 16:43:21.986.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.431) seconds\r",
                 "isQuiet" : 0
               }
             ],
-            "uniqueIdentifier" : "2E4DB396-792A-4E77-A8B5-4F2DAC78A59F",
-            "timeStartedRecording" : 576373768.30545104,
+            "uniqueIdentifier" : "C4766F4F-3DC1-4F70-9A49-5F8F149E7AC3",
+            "timeStartedRecording" : 576862988.68151295,
             "commandDetailDesc" : "",
             "localizedResultString" : "",
-            "timeStoppedRecording" : 576373782.20268798,
+            "timeStoppedRecording" : 576863002.26200795,
             "signature" : "",
             "xcbuildSignature" : "",
             "suiteName" : "",
@@ -821,15 +821,15 @@
             "subtitle" : "",
             "sectionType" : 3,
             "recorder" : "com.apple.dt.IDE.UnitTestLogSection.Worker",
-            "text" : "2019-04-08 00:49:31.038879+0100 iOSResultBundleAppUITests-Runner[35741:1314184] Running tests...\r2019-04-08 00:49:31.157686+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unable to look up screen scale\r2019-04-08 00:49:31.157791+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unexpected physical screen orientation\r2019-04-08 00:49:31.173200+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unable to look up screen scale\r2019-04-08 00:49:31.175826+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unable to look up screen scale\r2019-04-08 00:49:31.175906+0100 iOSResultBundleAppUITests-Runner[35741:1314184] [AXMediaCommon] Unexpected physical screen orientation\rTest Suite 'All tests' started at 2019-04-08 00:49:31.772\rTest Suite 'iOSResultBundleAppUITests.xctest' started at 2019-04-08 00:49:31.772\rTest Suite 'iOSResultBundleAppUITests' started at 2019-04-08 00:49:31.773\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:31.774\r    t =     0.04s Set Up\r    t =     0.05s     Open dev.roman.iOSResultBundleApp\r    t =     0.07s         Launch dev.roman.iOSResultBundleApp\r    t =     2.50s             Wait for accessibility to load\r    t =     2.88s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.37s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.39s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.395 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-08 00:49:36.169\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:35745\r    t =     4.23s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     5.56s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.761 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.158) seconds\rTest Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-08 00:49:41.931.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.159) seconds\rTest Suite 'All tests' failed at 2019-04-08 00:49:41.932.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 10.157 (10.160) seconds\r",
+            "text" : "2019-04-13 16:43:11.515407+0100 iOSResultBundleAppUITests-Runner[1638:13350] Running tests...\r2019-04-13 16:43:11.689871+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unable to look up screen scale\r2019-04-13 16:43:11.689957+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unexpected physical screen orientation\r2019-04-13 16:43:11.706432+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unable to look up screen scale\r2019-04-13 16:43:11.710015+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unable to look up screen scale\r2019-04-13 16:43:11.710103+0100 iOSResultBundleAppUITests-Runner[1638:13350] [AXMediaCommon] Unexpected physical screen orientation\rTest Suite 'All tests' started at 2019-04-13 16:43:12.554\rTest Suite 'iOSResultBundleAppUITests.xctest' started at 2019-04-13 16:43:12.555\rTest Suite 'iOSResultBundleAppUITests' started at 2019-04-13 16:43:12.555\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:12.556\r    t =     0.06s Set Up\r    t =     0.06s     Open dev.roman.iOSResultBundleApp\r    t =     0.09s         Launch dev.roman.iOSResultBundleApp\r    t =     2.85s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.22s Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail\r    t =     4.24s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testFail]' failed (4.246 seconds).\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' started.\r    t =     0.00s Start Test at 2019-04-13 16:43:16.803\r    t =     0.02s Set Up\r    t =     0.02s     Open dev.roman.iOSResultBundleApp\r    t =     0.04s         Launch dev.roman.iOSResultBundleApp\r    t =     0.04s             Terminate dev.roman.iOSResultBundleApp:1644\r    t =     3.61s             Wait for dev.roman.iOSResultBundleApp to idle\r    t =     4.98s Tear Down\rTest Case '-[iOSResultBundleAppUITests.iOSResultBundleAppUITests testSuccess]' passed (5.181 seconds).\rTest Suite 'iOSResultBundleAppUITests' failed at 2019-04-13 16:43:21.984.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.429) seconds\rTest Suite 'iOSResultBundleAppUITests.xctest' failed at 2019-04-13 16:43:21.985.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.430) seconds\rTest Suite 'All tests' failed at 2019-04-13 16:43:21.986.\r\t Executed 2 tests, with 1 failure (0 unexpected) in 9.427 (9.431) seconds\r",
             "isQuiet" : 0
           }
         ],
-        "uniqueIdentifier" : "EF3827E0-9EF2-4364-810B-64FC5642D873",
-        "timeStartedRecording" : 576373768.30540204,
+        "uniqueIdentifier" : "6CE70E25-BE63-40BB-B2EB-91003B0EAC98",
+        "timeStartedRecording" : 576862988.68142498,
         "commandDetailDesc" : "",
         "localizedResultString" : "",
-        "timeStoppedRecording" : 576373782.20278502,
+        "timeStoppedRecording" : 576863002.26211596,
         "signature" : "Test target iOSResultBundleAppUITests",
         "xcbuildSignature" : "",
         "suiteName" : "",

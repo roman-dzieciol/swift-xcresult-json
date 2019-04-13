@@ -39,8 +39,8 @@
         "AnalyzerWarningCount" : 0,
         "TestsFailedCount" : 0
       },
-      "EndedTime" : 576373784,
-      "StartedTime" : 576373750,
+      "EndedTime" : 576863007,
+      "StartedTime" : 576862964,
       "SchemeTask" : "Build",
       "BuildResult" : {
         "ErrorSummaries" : [
@@ -136,8 +136,8 @@
         "AnalyzerWarningCount" : 0,
         "TestsFailedCount" : 0
       },
-      "EndedTime" : 576373784,
-      "StartedTime" : 576373750,
+      "EndedTime" : 576863007,
+      "StartedTime" : 576862964,
       "SchemeTask" : "Build",
       "BuildResult" : {
         "ErrorSummaries" : [
@@ -233,7 +233,7 @@
             "TestCase" : "iOSResultBundleAppUITests.testFail()"
           }
         ],
-        "HasCodeCoverage" : false,
+        "HasCodeCoverage" : true,
         "ErrorCount" : 0,
         "WarningSummaries" : [
 
@@ -248,8 +248,8 @@
 
         ]
       },
-      "EndedTime" : 576373784,
-      "StartedTime" : 576373753,
+      "EndedTime" : 576863006,
+      "StartedTime" : 576862969,
       "SchemeTask" : "BuildAndAction",
       "BuildResult" : {
         "ErrorSummaries" : [

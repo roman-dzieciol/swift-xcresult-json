@@ -96,7 +96,7 @@
 	<array>
 		<dict>
 			<key>DiagnosticsDirectory</key>
-			<string>iOSResultBundleAppTests-28FA4076-26FC-4D17-939D-7861C1C09BA9</string>
+			<string>iOSResultBundleAppTests-75BB329A-C3F7-4AF5-B7A9-F7E3DA39B451</string>
 			<key>ProjectPath</key>
 			<string>iOSResultBundleApp.xcodeproj</string>
 			<key>TargetName</key>
@@ -111,17 +111,17 @@
 			<array>
 				<dict>
 					<key>Duration</key>
-					<real>0.32214009761810303</real>
+					<real>0.36002004146575928</real>
 					<key>Subtests</key>
 					<array>
 						<dict>
 							<key>Duration</key>
-							<real>0.32108092308044434</real>
+							<real>0.3588860034942627</real>
 							<key>Subtests</key>
 							<array>
 								<dict>
 									<key>Duration</key>
-									<real>0.32037496566772461</real>
+									<real>0.35815203189849854</real>
 									<key>Subtests</key>
 									<array>
 										<dict>
@@ -131,17 +131,17 @@
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.testAssertionFailure</string>
 													<key>FinishTimeInterval</key>
-													<real>576373767.70045805</real>
+													<real>576862988.037974</real>
 													<key>StartTimeInterval</key>
-													<real>576373767.69990098</real>
+													<real>576862988.03751695</real>
 													<key>Title</key>
 													<string>Assertion Failure: iOSResultBundleAppTests.swift:31: XCTAssertTrue failed</string>
 													<key>UUID</key>
-													<string>06C4AA82-8CFF-4AA1-B644-D401151CBEE2</string>
+													<string>507C8EDF-0738-4194-AC31-6246C253BC38</string>
 												</dict>
 											</array>
 											<key>Duration</key>
-											<real>0.0030930042266845703</real>
+											<real>0.0060280561447143555</real>
 											<key>FailureSummaries</key>
 											<array>
 												<dict>
@@ -164,11 +164,11 @@
 											<key>TestStatus</key>
 											<string>Failure</string>
 											<key>TestSummaryGUID</key>
-											<string>25F86667-DBED-4B20-B572-C81071471A7B</string>
+											<string>6F4FF63A-1FA0-4AFE-94A0-A51D203CFD59</string>
 										</dict>
 										<dict>
 											<key>Duration</key>
-											<real>0.31569492816925049</real>
+											<real>0.35058903694152832</real>
 											<key>PerformanceMetrics</key>
 											<array>
 												<dict>
@@ -184,16 +184,16 @@
 													<real>0.10000000000000001</real>
 													<key>Measurements</key>
 													<array>
-														<real>2.6620000000000001e-06</real>
-														<real>6.3200000000000005e-07</real>
-														<real>4.0600000000000001e-07</real>
-														<real>4.1199999999999998e-07</real>
-														<real>4.2199999999999999e-07</real>
+														<real>2.8550000000000002e-06</real>
+														<real>7.1699999999999997e-07</real>
+														<real>7.5700000000000002e-07</real>
+														<real>5.4300000000000003e-07</real>
+														<real>3.9799999999999999e-07</real>
 														<real>3.7500000000000001e-07</real>
-														<real>3.4200000000000002e-07</real>
-														<real>3.3799999999999998e-07</real>
-														<real>3.4200000000000002e-07</real>
-														<real>3.41e-07</real>
+														<real>3.5900000000000003e-07</real>
+														<real>3.65e-07</real>
+														<real>3.5999999999999999e-07</real>
+														<real>3.5699999999999998e-07</real>
 													</array>
 													<key>Name</key>
 													<string>Time</string>
@@ -210,11 +210,11 @@
 											<key>TestStatus</key>
 											<string>Success</string>
 											<key>TestSummaryGUID</key>
-											<string>E44B9B80-F8BF-430A-88AE-7AA75E196867</string>
+											<string>3E1D22D7-7725-41DA-B429-8EDF2235D38A</string>
 										</dict>
 										<dict>
 											<key>Duration</key>
-											<real>0.00032699108123779297</real>
+											<real>0.00037705898284912109</real>
 											<key>TestIdentifier</key>
 											<string>iOSResultBundleAppTests/testSuccess()</string>
 											<key>TestName</key>
@@ -224,7 +224,7 @@
 											<key>TestStatus</key>
 											<string>Success</string>
 											<key>TestSummaryGUID</key>
-											<string>31DA62BA-0BB8-4192-9DC3-5D5D088AC04D</string>
+											<string>A58B2023-6053-4008-A66A-3871AF2343A3</string>
 										</dict>
 									</array>
 									<key>TestIdentifier</key>
@@ -254,7 +254,7 @@
 		</dict>
 		<dict>
 			<key>DiagnosticsDirectory</key>
-			<string>iOSResultBundleAppUITests-6B3DBD43-60B6-49A1-A631-9B972359BF93</string>
+			<string>iOSResultBundleAppUITests-32A1C6E2-34DD-486C-926D-F68A4CCCB5D7</string>
 			<key>ProjectPath</key>
 			<string>iOSResultBundleApp.xcodeproj</string>
 			<key>TargetName</key>
@@ -269,17 +269,17 @@
 			<array>
 				<dict>
 					<key>Duration</key>
-					<real>10.159963011741638</real>
+					<real>9.4312490224838257</real>
 					<key>Subtests</key>
 					<array>
 						<dict>
 							<key>Duration</key>
-							<real>10.158779978752136</real>
+							<real>9.4298369884490967</real>
 							<key>Subtests</key>
 							<array>
 								<dict>
 									<key>Duration</key>
-									<real>10.157920956611633</real>
+									<real>9.428712010383606</real>
 									<key>Subtests</key>
 									<array>
 										<dict>
@@ -292,7 +292,7 @@
 													<array>
 														<dict>
 															<key>Filename</key>
-															<string>Screenshot_6C06786D-E07F-4EF1-9536-405B79E65C76.jpg</string>
+															<string>Screenshot_03CE08C1-7F4D-4ED1-B6E1-E6A56602CD9F.jpg</string>
 															<key>HasPayload</key>
 															<true/>
 															<key>InActivityIdentifier</key>
@@ -302,29 +302,29 @@
 															<key>Name</key>
 															<string>kXCTAttachmentLegacyScreenImageData</string>
 															<key>PayloadSize</key>
-															<integer>250192</integer>
+															<integer>249977</integer>
 															<key>Timestamp</key>
-															<real>576373771.81392896</real>
+															<real>576862992.61432195</real>
 															<key>UniformTypeIdentifier</key>
 															<string>public.jpeg</string>
 														</dict>
 													</array>
 													<key>FinishTimeInterval</key>
-													<real>576373771.81400502</real>
+													<real>576862992.61440504</real>
 													<key>StartTimeInterval</key>
-													<real>576373771.77367401</real>
+													<real>576862992.55628097</real>
 													<key>Title</key>
-													<string>Start Test at 2019-04-08 00:49:31.774</string>
+													<string>Start Test at 2019-04-13 16:43:12.556</string>
 													<key>UUID</key>
-													<string>6C06786D-E07F-4EF1-9536-405B79E65C76</string>
+													<string>03CE08C1-7F4D-4ED1-B6E1-E6A56602CD9F</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>576373776.14279103</real>
+													<real>576862996.77513194</real>
 													<key>StartTimeInterval</key>
-													<real>576373771.81489098</real>
+													<real>576862992.61521006</real>
 													<key>SubActivities</key>
 													<array>
 														<dict>
@@ -334,7 +334,7 @@
 															<array>
 																<dict>
 																	<key>Filename</key>
-																	<string>Screenshot_D129F66E-B79D-4D3C-A0EC-247874E76F40.jpg</string>
+																	<string>Screenshot_21AC6DC0-210D-4C3D-976C-D21DB918A378.jpg</string>
 																	<key>HasPayload</key>
 																	<true/>
 																	<key>InActivityIdentifier</key>
@@ -344,40 +344,28 @@
 																	<key>Name</key>
 																	<string>kXCTAttachmentLegacyScreenImageData</string>
 																	<key>PayloadSize</key>
-																	<integer>250192</integer>
+																	<integer>249977</integer>
 																	<key>Timestamp</key>
-																	<real>576373771.84534705</real>
+																	<real>576862992.64503896</real>
 																	<key>UniformTypeIdentifier</key>
 																	<string>public.jpeg</string>
 																</dict>
 															</array>
 															<key>FinishTimeInterval</key>
-															<real>576373776.14184499</real>
+															<real>576862996.77439904</real>
 															<key>StartTimeInterval</key>
-															<real>576373771.81913197</real>
+															<real>576862992.61918199</real>
 															<key>SubActivities</key>
 															<array>
 																<dict>
 																	<key>ActivityType</key>
 																	<string>com.apple.dt.xctest.activity-type.internal</string>
 																	<key>FinishTimeInterval</key>
-																	<real>576373776.14037097</real>
+																	<real>576862996.773597</real>
 																	<key>StartTimeInterval</key>
-																	<real>576373771.84544098</real>
+																	<real>576862992.64510298</real>
 																	<key>SubActivities</key>
 																	<array>
-																		<dict>
-																			<key>ActivityType</key>
-																			<string>com.apple.dt.xctest.activity-type.internal</string>
-																			<key>FinishTimeInterval</key>
-																			<real>576373774.37899697</real>
-																			<key>StartTimeInterval</key>
-																			<real>576373774.27625406</real>
-																			<key>Title</key>
-																			<string>Wait for accessibility to load</string>
-																			<key>UUID</key>
-																			<string>0E886931-A78C-447F-A53B-71AEBE76288D</string>
-																		</dict>
 																		<dict>
 																			<key>ActivityType</key>
 																			<string>com.apple.dt.xctest.activity-type.internal</string>
@@ -385,7 +373,7 @@
 																			<array>
 																				<dict>
 																					<key>Filename</key>
-																					<string>Screenshot_61491773-FF4F-41AF-9635-590CA041E1C3.jpg</string>
+																					<string>Screenshot_767D6EC5-77D9-40D9-A443-9469408B6D52.jpg</string>
 																					<key>HasPayload</key>
 																					<true/>
 																					<key>InActivityIdentifier</key>
@@ -395,39 +383,39 @@
 																					<key>Name</key>
 																					<string>kXCTAttachmentLegacyScreenImageData</string>
 																					<key>PayloadSize</key>
-																					<integer>45330</integer>
+																					<integer>40794</integer>
 																					<key>Timestamp</key>
-																					<real>576373774.70408702</real>
+																					<real>576862995.45669305</real>
 																					<key>UniformTypeIdentifier</key>
 																					<string>public.jpeg</string>
 																				</dict>
 																			</array>
 																			<key>FinishTimeInterval</key>
-																			<real>576373775.13850296</real>
+																			<real>576862995.771855</real>
 																			<key>StartTimeInterval</key>
-																			<real>576373774.648525</real>
+																			<real>576862995.406896</real>
 																			<key>Title</key>
 																			<string>Wait for dev.roman.iOSResultBundleApp to idle</string>
 																			<key>UUID</key>
-																			<string>61491773-FF4F-41AF-9635-590CA041E1C3</string>
+																			<string>767D6EC5-77D9-40D9-A443-9469408B6D52</string>
 																		</dict>
 																	</array>
 																	<key>Title</key>
 																	<string>Launch dev.roman.iOSResultBundleApp</string>
 																	<key>UUID</key>
-																	<string>C0B6BCB5-FA53-454B-B427-617DC7AB5EBA</string>
+																	<string>260E88E5-0336-4A9A-8EA3-4D15DDAA05C5</string>
 																</dict>
 															</array>
 															<key>Title</key>
 															<string>Open dev.roman.iOSResultBundleApp</string>
 															<key>UUID</key>
-															<string>D129F66E-B79D-4D3C-A0EC-247874E76F40</string>
+															<string>21AC6DC0-210D-4C3D-976C-D21DB918A378</string>
 														</dict>
 													</array>
 													<key>Title</key>
 													<string>Set Up</string>
 													<key>UUID</key>
-													<string>65C36E1A-273D-4F5C-8B43-A0F77CE1D187</string>
+													<string>947B0972-6F0D-42F7-9D8A-722568DCB60A</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
@@ -436,7 +424,7 @@
 													<array>
 														<dict>
 															<key>Filename</key>
-															<string>Screenshot_5A6EC696-5649-420E-A5CF-032A63390B9E.jpg</string>
+															<string>Screenshot_E0D6673E-92C8-4060-86BB-BF85AFBD757B.jpg</string>
 															<key>HasPayload</key>
 															<true/>
 															<key>InActivityIdentifier</key>
@@ -446,37 +434,37 @@
 															<key>Name</key>
 															<string>kXCTAttachmentLegacyScreenImageData</string>
 															<key>PayloadSize</key>
-															<integer>28627</integer>
+															<integer>28368</integer>
 															<key>Timestamp</key>
-															<real>576373776.16689301</real>
+															<real>576862996.79937005</real>
 															<key>UniformTypeIdentifier</key>
 															<string>public.jpeg</string>
 														</dict>
 													</array>
 													<key>FinishTimeInterval</key>
-													<real>576373776.16699195</real>
+													<real>576862996.79940903</real>
 													<key>StartTimeInterval</key>
-													<real>576373776.14516997</real>
+													<real>576862996.77848995</real>
 													<key>Title</key>
 													<string>Assertion Failure: iOSResultBundleAppUITests.swift:38: failed - fail</string>
 													<key>UUID</key>
-													<string>5A6EC696-5649-420E-A5CF-032A63390B9E</string>
+													<string>E0D6673E-92C8-4060-86BB-BF85AFBD757B</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>576373776.16820204</real>
+													<real>576862996.800547</real>
 													<key>StartTimeInterval</key>
-													<real>576373776.16781998</real>
+													<real>576862996.80018997</real>
 													<key>Title</key>
 													<string>Tear Down</string>
 													<key>UUID</key>
-													<string>4CFD5875-6B9C-4B7A-B41D-127C6A59BB8F</string>
+													<string>6040421D-F308-49E6-9DC1-2ECB3CCA37E1</string>
 												</dict>
 											</array>
 											<key>Duration</key>
-											<real>4.3954449892044067</real>
+											<real>4.2462170124053955</real>
 											<key>FailureSummaries</key>
 											<array>
 												<dict>
@@ -499,7 +487,7 @@
 											<key>TestStatus</key>
 											<string>Failure</string>
 											<key>TestSummaryGUID</key>
-											<string>5C90AB26-63EF-49BE-B555-19F5B5203967</string>
+											<string>5299C845-138B-4D7A-BA8B-93E86C7B0AD1</string>
 										</dict>
 										<dict>
 											<key>ActivitySummaries</key>
@@ -508,110 +496,110 @@
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>576373776.19028497</real>
+													<real>576862996.82262695</real>
 													<key>StartTimeInterval</key>
-													<real>576373776.16920102</real>
+													<real>576862996.80265701</real>
 													<key>Title</key>
-													<string>Start Test at 2019-04-08 00:49:36.169</string>
+													<string>Start Test at 2019-04-13 16:43:16.803</string>
 													<key>UUID</key>
-													<string>CF571940-8E60-480D-9AB0-145C1C164C43</string>
+													<string>AD826280-3ED3-4F06-B4D0-E363EC2476D9</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.deletedAttachment</string>
 													<key>FinishTimeInterval</key>
-													<real>576373776.16920102</real>
+													<real>576862996.80265701</real>
 													<key>StartTimeInterval</key>
-													<real>576373776.16920102</real>
+													<real>576862996.80265701</real>
 													<key>Title</key>
 													<string>Some screenshots were deleted because your scheme is configured to remove automatic screenshots on success.</string>
 													<key>UUID</key>
-													<string>A8AAE0D5-7A33-4D15-9A6C-32DD36C15554</string>
+													<string>B6D8571D-73FB-4B85-878F-0CB46808BA93</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>576373781.727525</real>
+													<real>576863001.78106403</real>
 													<key>StartTimeInterval</key>
-													<real>576373776.19082201</real>
+													<real>576862996.82317603</real>
 													<key>SubActivities</key>
 													<array>
 														<dict>
 															<key>ActivityType</key>
 															<string>com.apple.dt.xctest.activity-type.internal</string>
 															<key>FinishTimeInterval</key>
-															<real>576373781.72691</real>
+															<real>576863001.78057301</real>
 															<key>StartTimeInterval</key>
-															<real>576373776.191733</real>
+															<real>576862996.82412899</real>
 															<key>SubActivities</key>
 															<array>
 																<dict>
 																	<key>ActivityType</key>
 																	<string>com.apple.dt.xctest.activity-type.internal</string>
 																	<key>FinishTimeInterval</key>
-																	<real>576373781.72558105</real>
+																	<real>576863001.77976203</real>
 																	<key>StartTimeInterval</key>
-																	<real>576373776.21248305</real>
+																	<real>576862996.84421694</real>
 																	<key>SubActivities</key>
 																	<array>
 																		<dict>
 																			<key>ActivityType</key>
 																			<string>com.apple.dt.xctest.activity-type.internal</string>
 																			<key>FinishTimeInterval</key>
-																			<real>576373777.26084805</real>
+																			<real>576862997.94141901</real>
 																			<key>StartTimeInterval</key>
-																			<real>576373776.21291101</real>
+																			<real>576862996.84472406</real>
 																			<key>Title</key>
-																			<string>Terminate dev.roman.iOSResultBundleApp:35745</string>
+																			<string>Terminate dev.roman.iOSResultBundleApp:1644</string>
 																			<key>UUID</key>
-																			<string>048EDC40-4E79-4932-9214-775E4DF75E62</string>
+																			<string>0EF6CB1C-BEE5-4FB7-BC2A-849747437DAB</string>
 																		</dict>
 																		<dict>
 																			<key>ActivityType</key>
 																			<string>com.apple.dt.xctest.activity-type.internal</string>
 																			<key>FinishTimeInterval</key>
-																			<real>576373780.72332501</real>
+																			<real>576863000.77727497</real>
 																			<key>StartTimeInterval</key>
-																			<real>576373780.39916003</real>
+																			<real>576863000.41247499</real>
 																			<key>Title</key>
 																			<string>Wait for dev.roman.iOSResultBundleApp to idle</string>
 																			<key>UUID</key>
-																			<string>A56B5E0B-39F6-4454-9FF0-DBB69B1E0CD3</string>
+																			<string>F2AC7508-DD24-4F5A-A199-E4ACE7D4AD8D</string>
 																		</dict>
 																	</array>
 																	<key>Title</key>
 																	<string>Launch dev.roman.iOSResultBundleApp</string>
 																	<key>UUID</key>
-																	<string>AA2B68C6-7EB7-4F17-B1BC-D302924F92E5</string>
+																	<string>EA689407-2CA0-44CB-9B19-1397AC98DE92</string>
 																</dict>
 															</array>
 															<key>Title</key>
 															<string>Open dev.roman.iOSResultBundleApp</string>
 															<key>UUID</key>
-															<string>DEB5A647-C94B-4FB8-801A-DAE0B13BCDA6</string>
+															<string>DEF6E9C8-C37F-4608-8979-751E5B2A0B13</string>
 														</dict>
 													</array>
 													<key>Title</key>
 													<string>Set Up</string>
 													<key>UUID</key>
-													<string>4B1E3E1D-48E4-48AC-9455-1403E03F78CA</string>
+													<string>0F7A602F-9E47-417F-8E8B-4BE2B8641085</string>
 												</dict>
 												<dict>
 													<key>ActivityType</key>
 													<string>com.apple.dt.xctest.activity-type.internal</string>
 													<key>FinishTimeInterval</key>
-													<real>576373781.728701</real>
+													<real>576863001.78190696</real>
 													<key>StartTimeInterval</key>
-													<real>576373781.72822201</real>
+													<real>576863001.78154695</real>
 													<key>Title</key>
 													<string>Tear Down</string>
 													<key>UUID</key>
-													<string>885C6DD6-4387-44A6-A16C-180BB1A54D11</string>
+													<string>6616BEAD-49DE-4C98-B425-6E5D2259C5EF</string>
 												</dict>
 											</array>
 											<key>Duration</key>
-											<real>5.7613109350204468</real>
+											<real>5.1812360286712646</real>
 											<key>TestIdentifier</key>
 											<string>iOSResultBundleAppUITests/testSuccess()</string>
 											<key>TestName</key>
@@ -621,7 +609,7 @@
 											<key>TestStatus</key>
 											<string>Success</string>
 											<key>TestSummaryGUID</key>
-											<string>BF4EC37B-AF8C-4089-B74D-569A21068B91</string>
+											<string>BB8102A9-9849-46B3-91E2-C4FB8695318C</string>
 										</dict>
 									</array>
 									<key>TestIdentifier</key>
