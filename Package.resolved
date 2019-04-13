@@ -24,8 +24,8 @@
         "repositoryURL": "git@github.com:roman-dzieciol/swift-xcresult.git",
         "state": {
           "branch": null,
-          "revision": "a948c4f32ea2fc1261a59944eeb91a17328a9235",
-          "version": "10.2.0-1.2.1+10E125"
+          "revision": "b614127b7f82749602f3b08ae0b4075e5854af86",
+          "version": "10.2.0-1.2.2+10E125"
         }
       }
     ]
